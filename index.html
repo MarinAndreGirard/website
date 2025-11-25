@@ -121,7 +121,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#welcome" id="toc-welcome" class="nav-link active" data-scroll-target="#welcome">Welcome</a></li>
+  <li><a href="#url-httpsmarinandregirard.github.iowebsite" id="toc-url-httpsmarinandregirard.github.iowebsite" class="nav-link active" data-scroll-target="#url-httpsmarinandregirard.github.iowebsite">url https://MarinAndreGirard.github.io/website/</a></li>
+  <li><a href="#welcome" id="toc-welcome" class="nav-link" data-scroll-target="#welcome">Welcome</a></li>
   </ul>
 </nav>
     </div>
@@ -147,9 +148,12 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="url-httpsmarinandregirard.github.iowebsite" class="level1">
+<h1>url https://MarinAndreGirard.github.io/website/</h1>
+</section>
 <section id="welcome" class="level1">
 <h1>Welcome</h1>
-<p>I am a PhD student in physics at Virginia Tech working on quantum foundations, quantum error correction, and the emergence of classicality.</p>
+<p>I am a PhD student in physics at Virginia Tech working on quantum foundations, and quantum error correction. My current research focuses on the emergence of classicality and the emergence of space-time.</p>
 <p>This website collects my research, publications, and projects.</p>
 
 
@@ -229,7 +233,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/MarinAndreGirard\.github\.io\/website\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
