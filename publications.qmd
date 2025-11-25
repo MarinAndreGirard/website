@@ -1,0 +1,9 @@
+---
+title: "Publications"
+---
+
+# Publications
+
+You can list manually, or I can help you automate BibTeX → Quarto formatting.
+
+- Girard, M. *Emergence of classicality from Quantum Error Correction*, 2025.

@@ -1,0 +1,10 @@
+---
+title: "Marin Girard"
+---
+
+# Welcome
+
+I am a PhD student in physics at Virginia Tech working on quantum foundations, 
+quantum error correction, and the emergence of classicality.
+
+This website collects my research, publications, and projects.
