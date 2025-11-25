@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "CV\nYou can upload a PDF too:\nDownload my CV"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Publications\nYou can list manually, or I can help you automate BibTeX → Quarto formatting.\n\nGirard, M. Emergence of classicality from Quantum Error Correction, 2025."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Short description of your project, high-level or technical.\n\n\n\nAdd more as you like."
+  },
+  {
+    "objectID": "research.html#quantum-darwinism-quantum-error-correction",
+    "href": "research.html#quantum-darwinism-quantum-error-correction",
+    "title": "Research",
+    "section": "",
+    "text": "Short description of your project, high-level or technical."
+  },
+  {
+    "objectID": "research.html#quantum-gravity-information",
+    "href": "research.html#quantum-gravity-information",
+    "title": "Research",
+    "section": "",
+    "text": "Add more as you like."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Marin Girard",
+    "section": "",
+    "text": "Welcome\nI am a PhD student in physics at Virginia Tech working on quantum foundations, quantum error correction, and the emergence of classicality.\nThis website collects my research, publications, and projects."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
