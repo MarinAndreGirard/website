@@ -2,9 +2,11 @@
 title: "Marin Girard"
 ---
 
+# url https://MarinAndreGirard.github.io/website/
+
 # Welcome
 
 I am a PhD student in physics at Virginia Tech working on quantum foundations, 
-quantum error correction, and the emergence of classicality.
+and quantum error correction. My current research focuses on the emergence of classicality and the emergence of space-time.
 
 This website collects my research, publications, and projects.
