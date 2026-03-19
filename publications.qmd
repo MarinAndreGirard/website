@@ -2,8 +2,6 @@
 title: "Publications"
 ---
 
-# Publications
-
 ::: {.pub-card}
 ![](assets/publications/objectivity.jpg){.pub-image}
 
