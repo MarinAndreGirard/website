@@ -4,8 +4,9 @@ title: "Research"
 
 # Research
 
-## Quantum Darwinism & Quantum Error Correction
-Short description tbd
+## Quantum foundations
+-A Quantum Error-Correcting Perspective on Objectivity
+-Quantum Mereology
 
 ## Quantum Gravity & Information
 Short description tbd

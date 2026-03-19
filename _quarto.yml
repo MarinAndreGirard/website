@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - cv.pdf
 
 website:
   title: "Marin Girard"
@@ -12,9 +14,19 @@ website:
       - text: "Publications"
         href: publications.qmd
       - text: "CV"
-        href: cv.qmd
+        href: cv.pdf
 
 format:
   html:
     theme: lumen
     toc: true
+    include-in-header:
+      text: |
+        <script>
+        document.addEventListener("DOMContentLoaded", function () {
+          const cvLinks = document.querySelectorAll('a[href$="cv.pdf"]');
+          cvLinks.forEach((link) => {
+            link.setAttribute("download", "Marin-Girard-CV.pdf");
+          });
+        });
+        </script>

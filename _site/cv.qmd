@@ -1,9 +1,0 @@
----
-title: "Curriculum Vitae"
----
-
-# CV
-
-You can upload a PDF too:
-
-[Download my CV](cv.pdf)
