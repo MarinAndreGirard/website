@@ -4,3 +4,23 @@ title: "Publications"
 
 # Publications
 
+::: {.pub-card}
+![](assets/publications/objectivity.jpg){.pub-image}
+
+### A Quantum Error-Correcting Perspective on Objectivity
+
+Short description tbd.
+
+[Read publication](#)
+:::
+
+::: {.pub-card}
+![](assets/publications/mereology.jpg){.pub-image}
+
+### Quantum Mereology
+
+Short description tbd.
+
+[Read publication](#)
+:::
+

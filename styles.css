@@ -1,1 +1,16 @@
 /* css styles */
+
+.pub-card {
+	border: 1px solid var(--bs-border-color);
+	border-radius: 0.5rem;
+	padding: 1rem;
+	margin-bottom: 1.25rem;
+}
+
+.pub-image {
+	width: 100%;
+	max-width: 360px;
+	height: auto;
+	border-radius: 0.4rem;
+	margin-bottom: 0.75rem;
+}
