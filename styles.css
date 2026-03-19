@@ -1,16 +1,93 @@
 /* css styles */
 
+:root {
+	--site-accent: var(--bs-primary);
+}
+
+body {
+	line-height: 1.7;
+}
+
+h1,
+h2,
+h3 {
+	line-height: 1.25;
+	margin-top: 1.5rem;
+	margin-bottom: 0.75rem;
+}
+
+h1 {
+	font-size: 2.2rem;
+}
+
+h2 {
+	font-size: 1.8rem;
+}
+
+h3 {
+	font-size: 1.45rem;
+}
+
+a {
+	color: var(--site-accent);
+}
+
+a:hover {
+	color: var(--bs-link-hover-color);
+}
+
+.hero-intro {
+	font-size: 1.2rem;
+	font-weight: 500;
+	max-width: 44rem;
+	margin-bottom: 1rem;
+}
+
+.profile-photo {
+	width: 180px;
+	aspect-ratio: 1 / 1;
+	object-fit: cover;
+	border-radius: 50%;
+	border: 1px solid var(--bs-border-color);
+	margin-bottom: 1rem;
+}
+
+.trust-links {
+	font-size: 0.95rem;
+	color: var(--bs-secondary-color);
+	margin-top: 1rem;
+	margin-bottom: 2rem;
+}
+
 .pub-card {
+	display: grid;
+	gap: 0.7rem;
 	border: 1px solid var(--bs-border-color);
 	border-radius: 0.5rem;
-	padding: 1rem;
-	margin-bottom: 1.25rem;
+	padding: 1.1rem;
+	margin-bottom: 1.5rem;
 }
 
 .pub-image {
 	width: 100%;
-	max-width: 360px;
-	height: auto;
+	max-width: 420px;
+	aspect-ratio: 16 / 9;
+	object-fit: cover;
 	border-radius: 0.4rem;
-	margin-bottom: 0.75rem;
+	margin-bottom: 0.2rem;
+}
+
+.pub-meta {
+	font-size: 0.85rem;
+	color: var(--bs-secondary-color);
+}
+
+.pub-card h3,
+.pub-card p {
+	margin: 0;
+}
+
+#quarto-footer {
+	font-size: 0.85rem;
+	color: var(--bs-secondary-color);
 }

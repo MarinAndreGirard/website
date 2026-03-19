@@ -6,6 +6,8 @@ project:
 
 website:
   title: "Marin Girard"
+  page-footer:
+    right: "Last updated: March 19, 2026"
   navbar:
     left:
       - text: "Home"

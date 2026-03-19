@@ -2,23 +2,29 @@
 title: "Publications"
 ---
 
+Selected papers, newest first.
+
 ::: {.pub-card}
 ![](assets/publications/objectivity.jpg){.pub-image}
 
+<div class="pub-meta">Journal TBD · Year TBD</div>
+
 ### A Quantum Error-Correcting Perspective on Objectivity
 
-Short description tbd.
+A brief summary of the core result in one sentence.
 
-[Read publication](#)
+[Paper](#)
 :::
 
 ::: {.pub-card}
 ![](assets/publications/mereology.jpg){.pub-image}
 
+<div class="pub-meta">Journal TBD · Year TBD</div>
+
 ### Quantum Mereology
 
-Short description tbd.
+A brief summary of the core result in one sentence.
 
-[Read publication](#)
+[Paper](#)
 :::
 
