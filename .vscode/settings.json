@@ -1,0 +1,10 @@
+{
+  "files.exclude": {
+    "**/_site": true,
+    "**/.quarto": true
+  },
+  "search.exclude": {
+    "**/_site": true,
+    "**/.quarto": true
+  }
+}
