@@ -1,17 +1,20 @@
 ---
 title: "Publications"
+title-block: false
 ---
 
+::: {.page-heading}
 Selected papers, newest first.
+:::
 
 ::: {.pub-card}
 ![](assets/publications/objectivity.jpg){.pub-image}
 
-<div class="pub-meta">Journal TBD · Year TBD</div>
+<div class="pub-meta">Preprint / in progress · 2026</div>
 
 ### A Quantum Error-Correcting Perspective on Objectivity
 
-A brief summary of the core result in one sentence.
+A quantum-information view of how objectivity can emerge from structured redundancy and error-correcting behavior.
 
 [Paper](#)
 :::
@@ -19,12 +22,11 @@ A brief summary of the core result in one sentence.
 ::: {.pub-card}
 ![](assets/publications/mereology.jpg){.pub-image}
 
-<div class="pub-meta">Journal TBD · Year TBD</div>
+<div class="pub-meta">Preprint / in progress · 2026</div>
 
 ### Quantum Mereology
 
-A brief summary of the core result in one sentence.
+A project on the logic and structure of parts, wholes, and subsystem decomposition in quantum theory.
 
 [Paper](#)
 :::
-

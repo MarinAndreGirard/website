@@ -22,7 +22,8 @@ website:
 format:
   html:
     theme: lumen
-    toc: true
+    toc: false
+    css: styles.css
     include-in-header:
       text: |
         <script>
