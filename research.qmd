@@ -4,7 +4,7 @@ title-block: false
 ---
 
 ::: {.page-heading}
-These are the main threads of the project at the moment. Even with a small number of active topics, the goal is to make the structure of the work legible quickly.
+Not done yet
 :::
 
 ::: {.topic-block}
@@ -13,11 +13,11 @@ These are the main threads of the project at the moment. Even with a small numbe
 - A quantum error-correcting perspective on objectivity
 - Quantum mereology
 
-This part of the work focuses on how classical structure can arise from intrinsically quantum descriptions, and on what counts as a subsystem in the first place.
+TBD
 :::
 
 ::: {.topic-block}
 ## Quantum Gravity and Information
 
-How ideas from quantum information constrain the emergence of spacetime and the organization of degrees of freedom.
+TBD
 :::

@@ -16,7 +16,7 @@ I am a PhD student in physics at Virginia Tech working on quantum foundations, q
 This site is about my current research directions, selected papers, and CV.
 
 ::: {.trust-links}
-[Google Scholar](https://scholar.google.com/citations?user=8xDZ2dcAAAAJ&hl=en) · [Email](mailto:mcgirard AT vt.edu)
+[Google Scholar](https://scholar.google.com/citations?user=8xDZ2dcAAAAJ&hl=en) · [mcgirard AT vt.edu](mailto:)
 :::
 :::
 

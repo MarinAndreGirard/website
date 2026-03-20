@@ -14,7 +14,7 @@ Selected papers, newest first.
 
 ### A Quantum Error-Correcting Perspective on Objectivity
 
-A quantum-information view of how objectivity can emerge from structured redundancy and error-correcting behavior.
+Using operator algebra quantum error correction we provide a new way to understand objectivity that recovers previous approaches and goes beyond.
 
 [Paper](#)
 :::
@@ -26,7 +26,7 @@ A quantum-information view of how objectivity can emerge from structured redunda
 
 ### Quantum Mereology
 
-A project on the logic and structure of parts, wholes, and subsystem decomposition in quantum theory.
+Using overlapping qubits, can we emerge space from a random Hamiltonian?
 
 [Paper](#)
 :::
