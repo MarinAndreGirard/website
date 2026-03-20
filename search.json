@@ -11,14 +11,14 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Selected papers, newest first.\n\n\n\n\nPreprint / in progress · 2026\n\n\nA Quantum Error-Correcting Perspective on Objectivity\nA quantum-information view of how objectivity can emerge from structured redundancy and error-correcting behavior.\nPaper\n\n\n\n\n\nPreprint / in progress · 2026\n\n\nQuantum Mereology\nA project on the logic and structure of parts, wholes, and subsystem decomposition in quantum theory.\nPaper"
+    "text": "Selected papers, newest first.\n\n\n\n\nPreprint / in progress · 2026\n\n\nA Quantum Error-Correcting Perspective on Objectivity\nUsing operator algebra quantum error correction we provide a new way to understand objectivity that recovers previous approaches and goes beyond.\nPaper\n\n\n\n\n\nPreprint / in progress · 2026\n\n\nQuantum Mereology\nUsing overlapping qubits, can we emerge space from a random Hamiltonian?\nPaper"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Marin Girard",
     "section": "",
-    "text": "Quantum foundations · Quantum information · Emergence . Quantum Error correction\n\n\nI like quantum stuff.\n\nI am a PhD student in physics at Virginia Tech working on quantum foundations, quantum error correction and the emergence of space from quantum.\nThis site is about my current research directions, selected papers, and CV.\n\nGoogle Scholar · Email"
+    "text": "Quantum foundations · Quantum information · Emergence . Quantum Error correction\n\n\nI like quantum stuff.\n\nI am a PhD student in physics at Virginia Tech working on quantum foundations, quantum error correction and the emergence of space from quantum.\nThis site is about my current research directions, selected papers, and CV.\n\nGoogle Scholar · mcgirard AT vt.edu"
   },
   {
     "objectID": "CV.html",
@@ -32,20 +32,20 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "These are the main threads of the project at the moment. Even with a small number of active topics, the goal is to make the structure of the work legible quickly."
+    "text": "Not done yet"
   },
   {
     "objectID": "research.html#quantum-foundations",
     "href": "research.html#quantum-foundations",
     "title": "Research",
     "section": "Quantum Foundations",
-    "text": "Quantum Foundations\n\nA quantum error-correcting perspective on objectivity\nQuantum mereology\n\nThis part of the work focuses on how classical structure can arise from intrinsically quantum descriptions, and on what counts as a subsystem in the first place."
+    "text": "Quantum Foundations\n\nA quantum error-correcting perspective on objectivity\nQuantum mereology\n\nTBD"
   },
   {
     "objectID": "research.html#quantum-gravity-and-information",
     "href": "research.html#quantum-gravity-and-information",
     "title": "Research",
     "section": "Quantum Gravity and Information",
-    "text": "Quantum Gravity and Information\nHow ideas from quantum information constrain the emergence of spacetime and the organization of degrees of freedom."
+    "text": "Quantum Gravity and Information\nTBD"
   }
 ]
