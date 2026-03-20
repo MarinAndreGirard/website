@@ -5,44 +5,20 @@ title-block: false
 
 ::: {.home-hero}
 ::: {.hero-copy}
-<div class="eyebrow">Quantum foundations · Quantum information · Emergence</div>
+<div class="eyebrow">Quantum foundations · Quantum information · Emergence . Quantum Error correction</div>
 
 ::: {.hero-intro}
-I study how classical objectivity and spacetime emerge from quantum information.
+I like quantum stuff.
 :::
 
-I am a PhD student in physics at Virginia Tech working on quantum foundations and quantum error correction, with an emphasis on the conceptual structure behind classicality, subsystems, and spacetime.
+I am a PhD student in physics at Virginia Tech working on quantum foundations, quantum error correction and the emergence of space from quantum.
 
-This site brings together my current research directions, selected papers, and CV.
+This site is about my current research directions, selected papers, and CV.
 
 ::: {.trust-links}
-[Google Scholar](#) · [ORCID](#) · [Email](mailto:youremail@vt.edu)
-:::
-
-::: {.hero-actions}
-[Research](research.qmd){.hero-button}
-[Publications](publications.qmd){.hero-button .hero-button-secondary}
-[CV](cv.pdf){.hero-button .hero-button-secondary}
+[Google Scholar](https://scholar.google.com/citations?user=8xDZ2dcAAAAJ&hl=en) · [Email](mailto:mcgirard AT vt.edu)
 :::
 :::
 
 ![](assets/profile-photo.jpg){.hero-photo}
-:::
-
-::: {.section-card-grid}
-::: {.section-card}
-## Research
-
-Questions about objectivity, subsystem structure, and the emergence of spacetime from quantum information.
-
-[View research themes](research.qmd)
-:::
-
-::: {.section-card}
-## Publications
-
-Selected papers with brief summaries and a visual preview for each project.
-
-[Browse papers](publications.qmd)
-:::
 :::
