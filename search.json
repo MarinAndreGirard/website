@@ -11,14 +11,28 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Selected papers, newest first.\n\n\n\nJournal TBD · Year TBD\n\n\nA Quantum Error-Correcting Perspective on Objectivity\nA brief summary of the core result in one sentence.\nPaper\n\n\n\n\n\nJournal TBD · Year TBD\n\n\nQuantum Mereology\nA brief summary of the core result in one sentence.\nPaper"
+    "text": "Selected papers, newest first.\n\n\n\n\nPreprint / in progress · 2026\n\n\nA Quantum Error-Correcting Perspective on Objectivity\nA quantum-information view of how objectivity can emerge from structured redundancy and error-correcting behavior.\nPaper\n\n\n\n\n\nPreprint / in progress · 2026\n\n\nQuantum Mereology\nA project on the logic and structure of parts, wholes, and subsystem decomposition in quantum theory.\nPaper"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Marin Girard",
     "section": "",
-    "text": "I study how classical objectivity and spacetime emerge from quantum information.\n\nI am a PhD student in physics at Virginia Tech working on quantum foundations and quantum error correction.\nThis site collects my research directions, publications, and CV.\n\nGoogle Scholar · ORCID · Email"
+    "text": "Quantum foundations · Quantum information · Emergence\n\n\nI study how classical objectivity and spacetime emerge from quantum information.\n\nI am a PhD student in physics at Virginia Tech working on quantum foundations and quantum error correction, with an emphasis on the conceptual structure behind classicality, subsystems, and spacetime.\nThis site brings together my current research directions, selected papers, and CV.\n\nGoogle Scholar · ORCID · Email\n\n\nResearch Publications CV"
+  },
+  {
+    "objectID": "index.html#research",
+    "href": "index.html#research",
+    "title": "Marin Girard",
+    "section": "Research",
+    "text": "Research\nQuestions about objectivity, subsystem structure, and the emergence of spacetime from quantum information.\nView research themes"
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Marin Girard",
+    "section": "Publications",
+    "text": "Publications\nSelected papers with brief summaries and a visual preview for each project.\nBrowse papers"
   },
   {
     "objectID": "CV.html",
@@ -32,20 +46,20 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "-A Quantum Error-Correcting Perspective on Objectivity -Quantum Mereology\n\n\n\nShort description tbd"
+    "text": "These are the main threads of the project at the moment. Even with a small number of active topics, the goal is to make the structure of the work legible quickly."
   },
   {
     "objectID": "research.html#quantum-foundations",
     "href": "research.html#quantum-foundations",
     "title": "Research",
-    "section": "",
-    "text": "-A Quantum Error-Correcting Perspective on Objectivity -Quantum Mereology"
+    "section": "Quantum Foundations",
+    "text": "Quantum Foundations\n\nA quantum error-correcting perspective on objectivity\nQuantum mereology\n\nThis part of the work focuses on how classical structure can arise from intrinsically quantum descriptions, and on what counts as a subsystem in the first place."
   },
   {
-    "objectID": "research.html#quantum-gravity-information",
-    "href": "research.html#quantum-gravity-information",
+    "objectID": "research.html#quantum-gravity-and-information",
+    "href": "research.html#quantum-gravity-and-information",
     "title": "Research",
-    "section": "",
-    "text": "Short description tbd"
+    "section": "Quantum Gravity and Information",
+    "text": "Quantum Gravity and Information\nHow ideas from quantum information constrain the emergence of spacetime and the organization of degrees of freedom."
   }
 ]
