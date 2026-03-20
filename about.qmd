@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-![](assets/profile-photo.jpg){.profile-photo}
+![](assets/profile-photo.svg){.profile-photo}
 
 I am a PhD student in physics at Virginia Tech focused on quantum foundations and quantum error correction.
 
