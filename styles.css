@@ -1,20 +1,19 @@
 :root {
-	--site-accent: #1f5c4a;
-	--site-accent-soft: #dbece6;
-	--site-ink: #1f2430;
-	--site-muted: #5b6472;
-	--site-sand: #f6f1e8;
-	--site-card: rgba(255, 255, 255, 0.88);
-	--site-border: rgba(31, 36, 48, 0.12);
-	--site-shadow: 0 22px 50px rgba(31, 36, 48, 0.1);
+	--site-accent: #1b6a5b;
+	--site-accent-dark: #134f45;
+	--site-blue: #244f7a;
+	--site-ink: #18202a;
+	--site-muted: #5d6675;
+	--site-bg: #f7f8fb;
+	--site-panel: #ffffff;
+	--site-border: rgba(24, 32, 42, 0.12);
+	--site-shadow: 0 18px 36px rgba(24, 32, 42, 0.08);
 }
 
 body {
-	background:
-		radial-gradient(circle at top left, rgba(219, 236, 230, 0.8), transparent 32%),
-		linear-gradient(180deg, #fbf8f2 0%, #f3ede1 100%);
+	background: var(--site-bg);
 	color: var(--site-ink);
-	font-family: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Palatino, Georgia, serif;
+	font-family: Georgia, "Times New Roman", serif;
 	line-height: 1.7;
 }
 
@@ -26,19 +25,19 @@ h3 {
 	line-height: 1.25;
 	margin-top: 1.5rem;
 	margin-bottom: 0.75rem;
+	letter-spacing: 0;
 }
 
 h1 {
-	font-size: clamp(2.4rem, 5vw, 4.5rem);
-	letter-spacing: -0.04em;
+	font-size: 3.5rem;
 }
 
 h2 {
-	font-size: 1.9rem;
+	font-size: 1.75rem;
 }
 
 h3 {
-	font-size: 1.45rem;
+	font-size: 1.3rem;
 }
 
 a {
@@ -48,19 +47,18 @@ a {
 }
 
 a:hover {
-	color: #174839;
+	color: var(--site-accent-dark);
 }
 
 #quarto-header .navbar {
-	background: rgba(19, 32, 43, 0.9);
-	backdrop-filter: blur(12px);
-	border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+	background: #15212c;
+	border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 .navbar-brand,
 .navbar-nav .nav-link {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	letter-spacing: 0.04em;
+	letter-spacing: 0;
 	text-transform: uppercase;
 	font-size: 0.82rem;
 }
@@ -76,8 +74,8 @@ main.content {
 }
 
 #title-block-header .title {
-	font-size: clamp(2.4rem, 5vw, 4.5rem);
-	letter-spacing: -0.04em;
+	font-size: 3.5rem;
+	letter-spacing: 0;
 }
 
 .home-hero,
@@ -93,7 +91,7 @@ main.content {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 0.8rem;
 	font-weight: 700;
-	letter-spacing: 0.16em;
+	letter-spacing: 0;
 	text-transform: uppercase;
 	color: var(--site-accent);
 	margin-bottom: 0.9rem;
@@ -110,7 +108,9 @@ main.content {
 .page-intro-copy > p,
 .page-intro > p,
 .page-heading > p,
-.topic-block > p {
+.topic-block > p,
+.section-card > p,
+.pub-copy > p {
 	color: var(--site-muted);
 	font-size: 1.06rem;
 }
@@ -155,34 +155,72 @@ main.content {
 	margin-bottom: 0;
 }
 
+.link-row {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 0.95rem;
+	color: var(--site-muted);
+	margin-top: 1rem;
+}
+
 .page-heading {
 	margin: 1.5rem 0 1.5rem;
 }
 
+.section-grid {
+	display: grid;
+	grid-template-columns: repeat(2, minmax(0, 1fr));
+	gap: 1rem;
+	margin: 2.5rem 0;
+}
+
+.section-card {
+	background: var(--site-panel);
+	border: 1px solid var(--site-border);
+	border-radius: 6px;
+	padding: 1.25rem;
+	box-shadow: var(--site-shadow);
+}
+
+.section-card h2 {
+	margin-top: 0;
+}
+
 .pub-card {
-	margin-bottom: 2.25rem;
+	display: grid;
+	grid-template-columns: 220px minmax(0, 1fr);
+	gap: 1.25rem;
+	align-items: start;
+	margin-bottom: 2.5rem;
+	padding-bottom: 2rem;
+	border-bottom: 1px solid var(--site-border);
 }
 
 .pub-image {
 	width: 100%;
-	max-width: 520px;
 	aspect-ratio: 16 / 9;
 	object-fit: cover;
 	border-radius: 4px;
-	margin-bottom: 0.8rem;
+	border: 1px solid var(--site-border);
+	background: var(--site-panel);
+}
+
+.pub-copy h3 {
+	margin-top: 0.25rem;
 }
 
 .pub-meta {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 0.8rem;
 	font-weight: 700;
-	letter-spacing: 0.08em;
+	letter-spacing: 0;
 	text-transform: uppercase;
-	color: var(--site-accent);
+	color: var(--site-blue);
 }
 
 .topic-block {
 	margin-bottom: 2rem;
+	padding-bottom: 1.5rem;
+	border-bottom: 1px solid var(--site-border);
 }
 
 .topic-block ul {
@@ -196,17 +234,32 @@ main.content {
 
 @media (max-width: 900px) {
 	.home-hero,
-	.page-intro {
+	.page-intro,
+	.section-grid,
+	.pub-card {
 		grid-template-columns: 1fr;
 	}
 
 	h1 {
 		font-size: 2.7rem;
 	}
+
+	#title-block-header .title {
+		font-size: 2.7rem;
+	}
+
+	.pub-image {
+		max-width: 520px;
+	}
 }
 
 @media (max-width: 640px) {
 	main.content {
 		padding-top: 1rem;
+	}
+
+	h1,
+	#title-block-header .title {
+		font-size: 2.3rem;
 	}
 }
