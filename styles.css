@@ -10,8 +10,20 @@
 	--site-shadow: 0 18px 36px rgba(24, 32, 42, 0.08);
 }
 
-body {
+html {
 	background: var(--site-bg);
+}
+
+body {
+	background-color: var(--site-bg);
+	background-image: linear-gradient(
+		180deg,
+		rgba(27, 106, 91, 0.09) 0%,
+		rgba(36, 79, 122, 0.04) 45%,
+		var(--site-bg) 100%
+	);
+	background-repeat: no-repeat;
+	background-size: 100% 760px;
 	color: var(--site-ink);
 	font-family: Georgia, "Times New Roman", serif;
 	line-height: 1.7;
@@ -172,6 +184,8 @@ main.content {
 	align-items: start;
 	margin-bottom: 2.5rem;
 	padding-bottom: 2rem;
+	padding-left: 1.25rem;
+	border-left: 3px solid rgba(27, 106, 91, 0.35);
 	border-bottom: 1px solid var(--site-border);
 }
 
