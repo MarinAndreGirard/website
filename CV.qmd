@@ -4,6 +4,6 @@ title: "Curriculum Vitae"
 
 # CV
 
-You can upload a PDF too:
+<!-- Edit note: the navbar links directly to cv.pdf. Replace that file when you update your CV. -->
 
 [Download my CV](cv.pdf)

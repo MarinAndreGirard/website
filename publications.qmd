@@ -3,30 +3,56 @@ title: "Publications"
 title-block: false
 ---
 
+<!-- Edit note: duplicate a pub-card block to add a paper. Use arXiv abs links, not local PDF links. -->
+
 ::: {.page-heading}
 Selected papers, newest first.
 :::
 
 ::: {.pub-card}
-![](assets/publications/objectivity.jpg){.pub-image}
+![](assets/publications/mereology.jpg){.pub-image}
 
-<div class="pub-meta">Preprint / in progress · 2026</div>
+::: {.pub-copy}
+<div class="pub-meta">arXiv:2606.10004 · 2026</div>
 
-### A Quantum Error-Correcting Perspective on Objectivity
+### Wave packets from the spectrum
 
-Using operator algebra quantum error correction we provide a new way to understand objectivity that recovers previous approaches and goes beyond.
+ChunJun Cao, Oliver Friedrich, **Marin Girard**, Nicolas Loizeau, and Ashmeet Singh
 
-[Paper](#)
+We show how a Hamiltonian can be represented in a basis where dynamics look more local, producing wave-packet behavior and suggesting a route toward quantum mereology for fields.
+
+[arXiv](https://arxiv.org/abs/2606.10004)
+:::
 :::
 
 ::: {.pub-card}
-![](assets/publications/mereology.jpg){.pub-image}
+![](assets/publications/objectivity.jpg){.pub-image}
 
-<div class="pub-meta">Preprint / in progress · 2026</div>
+::: {.pub-copy}
+<div class="pub-meta">arXiv:2606.06588 · 2026</div>
 
-### Quantum Mereology
+### Demystifying Objectivity with Operator Algebra Quantum Error Correction
 
-Using overlapping qubits, can we emerge space from a random Hamiltonian?
+**Marin Girard**, Gong Cheng, and ChunJun Cao
 
-[Paper](#)
+We connect quantum Darwinism with operator algebra quantum error correction, making objectivity into a local recoverability question and giving computable tools for studying classicality and redundancy.
+
+[arXiv](https://arxiv.org/abs/2606.06588)
+:::
+:::
+
+::: {.pub-card}
+![](assets/publications/placeholder.svg){.pub-image}
+
+::: {.pub-copy}
+<div class="pub-meta">arXiv:2210.04282 · 2022</div>
+
+### Relativistic thermodynamics of perfect fluids
+
+Sylvain D. Brechet and **Marin C. A. Girard**
+
+We develop a covariant thermodynamic description for relativistic perfect fluids, including relativistic continuity equations and transformation laws for thermodynamic quantities.
+
+[arXiv](https://arxiv.org/abs/2210.04282)
+:::
 :::

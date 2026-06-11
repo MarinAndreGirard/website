@@ -3,21 +3,36 @@ title: "Research"
 title-block: false
 ---
 
+<!-- Edit note: each topic block below is a plain Markdown section. Add or remove blocks as your projects change. -->
+
 ::: {.page-heading}
-Not done yet
+I use tools from quantum information to study how structure, objectivity, and locality can emerge from quantum systems.
 :::
 
 ::: {.topic-block}
-## Quantum Foundations
+## Objectivity and Quantum Error Correction
 
-- A quantum error-correcting perspective on objectivity
-- Quantum mereology
+Quantum Darwinism asks how many observers can agree on stable, classical facts about a quantum system. My recent work studies this through operator algebra quantum error correction, where objectivity can be phrased as a local recoverability problem.
 
-TBD
+- Algebraic conditions for objectivity
+- Connections between redundancy, classicality, and recoverable information
+- Stabilizer-code models and Clifford simulations
+:::
+
+::: {.topic-block}
+## Quantum Mereology and Emergent Locality
+
+Quantum mereology asks how the parts of a quantum system should be chosen. I am interested in when a choice of degrees of freedom makes a system look local, geometric, or field-like, even if that structure was not obvious from the original description.
+
+- Wave packets from spectra
+- Emergent lattice descriptions
+- Locality from choices of factorization or mode basis
 :::
 
 ::: {.topic-block}
 ## Quantum Gravity and Information
 
-TBD
+I am broadly interested in how tools from quantum information and error correction can clarify gravitational questions, especially questions about emergence, observables, and the role of subsystems.
+
+This section is a good place to add a short description of future projects, seminar notes, or reading-group material.
 :::

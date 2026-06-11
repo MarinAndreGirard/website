@@ -3,6 +3,8 @@ title: "About"
 title-block: false
 ---
 
+<!-- Edit note: update this page when your year, group, hobbies, or contact details change. -->
+
 ::: {.page-intro}
 ::: {.profile-stack}
 ![](assets/profile-photo.jpg){.profile-photo}
@@ -13,7 +15,31 @@ These are belay glasses, they use prisms.
 :::
 
 ::: {.page-intro-copy}
-I am a PhD student in physics at Virginia Tech focused on quantum foundations and quantum error correction.
+I am a second-year PhD student in physics at Virginia Tech, working with ChunJun Cao.
+
+My research sits around quantum information, quantum foundations, quantum gravity, quantum mereology, and quantum computing. I am especially interested in cases where the right quantum-information language turns a conceptual question into something that can be computed or tested.
 
 :::
+:::
+
+::: {.topic-block}
+## Academic Interests
+
+- Quantum foundations and the emergence of objectivity
+- Operator algebra quantum error correction
+- Quantum mereology and emergent locality
+- Quantum gravity and information
+- Quantum computing
+:::
+
+::: {.topic-block}
+## Outside Physics
+
+I like climbing and cooking.
+:::
+
+::: {.topic-block}
+## Contact
+
+[mcgirard@vt.edu](mailto:mcgirard@vt.edu) · [Google Scholar](https://scholar.google.com/citations?user=8xDZ2dcAAAAJ&hl=en)
 :::

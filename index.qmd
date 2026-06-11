@@ -3,22 +3,40 @@ title: "Marin Girard"
 title-block: false
 ---
 
+<!-- Edit note: this is the first page visitors see. Keep the first paragraph short and update the link row when your profiles change. -->
+
 ::: {.home-hero}
 ::: {.hero-copy}
-<div class="eyebrow">Quantum foundations · Quantum information · Emergence . Quantum Error correction</div>
+<div class="eyebrow">PhD student in physics · Virginia Tech</div>
 
 ::: {.hero-intro}
-I like quantum stuff.
+I work on quantum information, quantum foundations, and how classical structure can emerge from quantum systems.
 :::
 
-I am a PhD student in physics at Virginia Tech working on quantum foundations, quantum error correction and the emergence of space from quantum.
+I am a second-year PhD student in ChunJun Cao's group at Virginia Tech. My current interests include operator algebra quantum error correction, quantum Darwinism and objectivity, quantum mereology, quantum gravity, and quantum computing.
 
-This site is about my current research directions, selected papers, and CV.
-
-::: {.trust-links}
-[Google Scholar](https://scholar.google.com/citations?user=8xDZ2dcAAAAJ&hl=en) · [mcgirard AT vt.edu](mailto:)
+::: {.link-row}
+[Google Scholar](https://scholar.google.com/citations?user=8xDZ2dcAAAAJ&hl=en) · [Email](mailto:mcgirard@vt.edu) · [CV](cv.pdf)
 :::
 :::
 
 ![](assets/profile-photo.jpg){.hero-photo}
+:::
+
+::: {.section-grid}
+::: {.section-card}
+## Current Work
+
+I am interested in how information-theoretic ideas can make questions about emergence and objectivity more precise. Much of my recent work uses quantum error correction as a language for identifying when many observers, subsystems, or choices of degrees of freedom agree on a stable classical description.
+
+[Research directions](research.qmd)
+:::
+
+::: {.section-card}
+## Recent Papers
+
+My latest preprints are on wave packets from spectra and objectivity from operator algebra quantum error correction. The publications page links out to arXiv rather than hosting PDF viewers here.
+
+[Publications](publications.qmd)
+:::
 :::
