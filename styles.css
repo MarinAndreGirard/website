@@ -137,6 +137,10 @@ main.content {
 	object-fit: cover;
 	border-radius: 4px;
 	border: 1px solid rgba(19, 32, 43, 0.08);
+	-webkit-tap-highlight-color: transparent;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	user-select: none;
 }
 
 .profile-photo {
@@ -196,6 +200,10 @@ main.content {
 	border-radius: 4px;
 	border: 1px solid var(--site-border);
 	background: var(--site-panel);
+	-webkit-tap-highlight-color: transparent;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	user-select: none;
 }
 
 .pub-copy h3 {
