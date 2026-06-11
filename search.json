@@ -1,38 +1,17 @@
 [
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Marin Girard",
     "section": "",
-    "text": "I use tools from quantum information to study how structure, objectivity, and locality can emerge from quantum systems."
+    "text": "PhD student in physics · Virginia Tech\n\n\nI do quantum stuff\n\nSecond-year PhD student in ChunJun Cao’s group at Virginia Tech. My current interests include quantum error correction, quantum Darwinism and objectivity, quantum mereology, quantum gravity, and quantum computing.\n\nGoogle Scholar · Email · CV\n\n\n\n\n\nThese are belay glasses; I like climbing."
   },
   {
-    "objectID": "research.html#objectivity-and-quantum-error-correction",
-    "href": "research.html#objectivity-and-quantum-error-correction",
-    "title": "Research",
-    "section": "Objectivity and Quantum Error Correction",
-    "text": "Objectivity and Quantum Error Correction\nQuantum Darwinism asks how many observers can agree on stable, classical facts about a quantum system. My recent work studies this through operator algebra quantum error correction, where objectivity can be phrased as a local recoverability problem.\n\nAlgebraic conditions for objectivity\nConnections between redundancy, classicality, and recoverable information\nStabilizer-code models and Clifford simulations"
-  },
-  {
-    "objectID": "research.html#quantum-mereology-and-emergent-locality",
-    "href": "research.html#quantum-mereology-and-emergent-locality",
-    "title": "Research",
-    "section": "Quantum Mereology and Emergent Locality",
-    "text": "Quantum Mereology and Emergent Locality\nQuantum mereology asks how the parts of a quantum system should be chosen. I am interested in when a choice of degrees of freedom makes a system look local, geometric, or field-like, even if that structure was not obvious from the original description.\n\nWave packets from spectra\nEmergent lattice descriptions\nLocality from choices of factorization or mode basis"
-  },
-  {
-    "objectID": "research.html#quantum-gravity-and-information",
-    "href": "research.html#quantum-gravity-and-information",
-    "title": "Research",
-    "section": "Quantum Gravity and Information",
-    "text": "Quantum Gravity and Information\nI am broadly interested in how tools from quantum information and error correction can clarify gravitational questions, especially questions about emergence, observables, and the role of subsystems.\nThis section is a good place to add a short description of future projects, seminar notes, or reading-group material."
-  },
-  {
-    "objectID": "CV.html",
-    "href": "CV.html",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "CV\n\nDownload my CV"
+    "objectID": "index.html#recent-papers",
+    "href": "index.html#recent-papers",
+    "title": "Marin Girard",
+    "section": "Recent Papers",
+    "text": "Recent Papers\n\n\n\n\narXiv:2606.10004 · 2026\n\n\nWave packets from the spectrum\nChunJun Cao, Oliver Friedrich, Marin Girard, Nicolas Loizeau, and Ashmeet Singh\nWe show how a Hamiltonian can be represented in a basis where dynamics look more local, producing wave-packet behavior and suggesting a route toward quantum mereology for fields.\narXiv\n\n\n\n\n\n\n\narXiv:2606.06588 · 2026\n\n\nDemystifying Objectivity with Operator Algebra Quantum Error Correction\nMarin Girard, Gong Cheng, and ChunJun Cao\nWe connect quantum Darwinism with operator algebra quantum error correction, making objectivity into a local recoverability question and giving computable tools for studying classicality and redundancy.\narXiv\n\n\n\n\n\n\n\narXiv:2210.04282 · 2022\n\n\nRelativistic thermodynamics of perfect fluids\nSylvain D. Brechet and Marin C. A. Girard\nWe develop a covariant thermodynamic description for relativistic perfect fluids, including relativistic continuity equations and transformation laws for thermodynamic quantities.\narXiv"
   },
   {
     "objectID": "about.html",
@@ -63,31 +42,45 @@
     "text": "Contact\nmcgirard@vt.edu · Google Scholar"
   },
   {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "CV\n\nDownload my CV"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "I use tools from quantum information to study how structure, objectivity, and locality can emerge from quantum systems."
+  },
+  {
+    "objectID": "research.html#objectivity-and-quantum-error-correction",
+    "href": "research.html#objectivity-and-quantum-error-correction",
+    "title": "Research",
+    "section": "Objectivity and Quantum Error Correction",
+    "text": "Objectivity and Quantum Error Correction\nQuantum Darwinism asks how many observers can agree on stable, classical facts about a quantum system. My recent work studies this through operator algebra quantum error correction, where objectivity can be phrased as a local recoverability problem.\n\nAlgebraic conditions for objectivity\nConnections between redundancy, classicality, and recoverable information\nStabilizer-code models and Clifford simulations"
+  },
+  {
+    "objectID": "research.html#quantum-mereology-and-emergent-locality",
+    "href": "research.html#quantum-mereology-and-emergent-locality",
+    "title": "Research",
+    "section": "Quantum Mereology and Emergent Locality",
+    "text": "Quantum Mereology and Emergent Locality\nQuantum mereology asks how the parts of a quantum system should be chosen. I am interested in when a choice of degrees of freedom makes a system look local, geometric, or field-like, even if that structure was not obvious from the original description.\n\nWave packets from spectra\nEmergent lattice descriptions\nLocality from choices of factorization or mode basis"
+  },
+  {
+    "objectID": "research.html#quantum-gravity-and-information",
+    "href": "research.html#quantum-gravity-and-information",
+    "title": "Research",
+    "section": "Quantum Gravity and Information",
+    "text": "Quantum Gravity and Information\nI am broadly interested in how tools from quantum information and error correction can clarify gravitational questions, especially questions about emergence, observables, and the role of subsystems.\nThis section is a good place to add a short description of future projects, seminar notes, or reading-group material."
+  },
+  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
     "text": "Selected papers, newest first.\n\n\n\n\n\narXiv:2606.10004 · 2026\n\n\nWave packets from the spectrum\nChunJun Cao, Oliver Friedrich, Marin Girard, Nicolas Loizeau, and Ashmeet Singh\nWe show how a Hamiltonian can be represented in a basis where dynamics look more local, producing wave-packet behavior and suggesting a route toward quantum mereology for fields.\narXiv\n\n\n\n\n\n\n\narXiv:2606.06588 · 2026\n\n\nDemystifying Objectivity with Operator Algebra Quantum Error Correction\nMarin Girard, Gong Cheng, and ChunJun Cao\nWe connect quantum Darwinism with operator algebra quantum error correction, making objectivity into a local recoverability question and giving computable tools for studying classicality and redundancy.\narXiv\n\n\n\n\n\n\n\narXiv:2210.04282 · 2022\n\n\nRelativistic thermodynamics of perfect fluids\nSylvain D. Brechet and Marin C. A. Girard\nWe develop a covariant thermodynamic description for relativistic perfect fluids, including relativistic continuity equations and transformation laws for thermodynamic quantities.\narXiv"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Marin Girard",
-    "section": "",
-    "text": "PhD student in physics · Virginia Tech\n\n\nI work on quantum information, quantum foundations, and how classical structure can emerge from quantum systems.\n\nI am a second-year PhD student in ChunJun Cao’s group at Virginia Tech. My current interests include operator algebra quantum error correction, quantum Darwinism and objectivity, quantum mereology, quantum gravity, and quantum computing.\n\nGoogle Scholar · Email · CV"
-  },
-  {
-    "objectID": "index.html#current-work",
-    "href": "index.html#current-work",
-    "title": "Marin Girard",
-    "section": "Current Work",
-    "text": "Current Work\nI am interested in how information-theoretic ideas can make questions about emergence and objectivity more precise. Much of my recent work uses quantum error correction as a language for identifying when many observers, subsystems, or choices of degrees of freedom agree on a stable classical description.\nResearch directions"
-  },
-  {
-    "objectID": "index.html#recent-papers",
-    "href": "index.html#recent-papers",
-    "title": "Marin Girard",
-    "section": "Recent Papers",
-    "text": "Recent Papers\nMy latest preprints are on wave packets from spectra and objectivity from operator algebra quantum error correction. The publications page links out to arXiv rather than hosting PDF viewers here.\nPublications"
   }
 ]
