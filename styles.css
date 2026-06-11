@@ -109,7 +109,6 @@ main.content {
 .page-intro > p,
 .page-heading > p,
 .topic-block > p,
-.section-card > p,
 .pub-copy > p {
 	color: var(--site-muted);
 	font-size: 1.06rem;
@@ -166,29 +165,10 @@ main.content {
 	margin: 1.5rem 0 1.5rem;
 }
 
-.section-grid {
-	display: grid;
-	grid-template-columns: repeat(2, minmax(0, 1fr));
-	gap: 1rem;
-	margin: 2.5rem 0;
-}
-
-.section-card {
-	background: var(--site-panel);
-	border: 1px solid var(--site-border);
-	border-radius: 6px;
-	padding: 1.25rem;
-	box-shadow: var(--site-shadow);
-}
-
-.section-card h2 {
-	margin-top: 0;
-}
-
 .pub-card {
 	display: grid;
-	grid-template-columns: 220px minmax(0, 1fr);
-	gap: 1.25rem;
+	grid-template-columns: minmax(260px, 340px) minmax(0, 1fr);
+	gap: 1.5rem;
 	align-items: start;
 	margin-bottom: 2.5rem;
 	padding-bottom: 2rem;
@@ -197,8 +177,8 @@ main.content {
 
 .pub-image {
 	width: 100%;
-	aspect-ratio: 16 / 9;
-	object-fit: cover;
+	height: auto;
+	object-fit: contain;
 	border-radius: 4px;
 	border: 1px solid var(--site-border);
 	background: var(--site-panel);
@@ -235,7 +215,6 @@ main.content {
 @media (max-width: 900px) {
 	.home-hero,
 	.page-intro,
-	.section-grid,
 	.pub-card {
 		grid-template-columns: 1fr;
 	}
@@ -249,7 +228,7 @@ main.content {
 	}
 
 	.pub-image {
-		max-width: 520px;
+		max-width: 640px;
 	}
 }
 

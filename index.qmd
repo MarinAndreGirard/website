@@ -10,33 +10,71 @@ title-block: false
 <div class="eyebrow">PhD student in physics · Virginia Tech</div>
 
 ::: {.hero-intro}
-I work on quantum information, quantum foundations, and how classical structure can emerge from quantum systems.
+I do quantum stuff
 :::
 
-I am a second-year PhD student in ChunJun Cao's group at Virginia Tech. My current interests include operator algebra quantum error correction, quantum Darwinism and objectivity, quantum mereology, quantum gravity, and quantum computing.
+Second-year PhD student in ChunJun Cao's group at Virginia Tech. My current interests include quantum error correction, quantum Darwinism and objectivity, quantum mereology, quantum gravity, and quantum computing.
 
 ::: {.link-row}
 [Google Scholar](https://scholar.google.com/citations?user=8xDZ2dcAAAAJ&hl=en) · [Email](mailto:mcgirard@vt.edu) · [CV](cv.pdf)
 :::
 :::
 
+::: {.profile-stack}
 ![](assets/profile-photo.jpg){.hero-photo}
+
+::: {.profile-caption}
+These are belay glasses; I like climbing.
+:::
+:::
 :::
 
-::: {.section-grid}
-::: {.section-card}
-## Current Work
-
-I am interested in how information-theoretic ideas can make questions about emergence and objectivity more precise. Much of my recent work uses quantum error correction as a language for identifying when many observers, subsystems, or choices of degrees of freedom agree on a stable classical description.
-
-[Research directions](research.qmd)
-:::
-
-::: {.section-card}
 ## Recent Papers
 
-My latest preprints are on wave packets from spectra and objectivity from operator algebra quantum error correction. The publications page links out to arXiv rather than hosting PDF viewers here.
+::: {.pub-card}
+![](assets/publications/mereology.jpg){.pub-image}
 
-[Publications](publications.qmd)
+::: {.pub-copy}
+<div class="pub-meta">arXiv:2606.10004 · 2026</div>
+
+### Wave packets from the spectrum
+
+ChunJun Cao, Oliver Friedrich, **Marin Girard**, Nicolas Loizeau, and Ashmeet Singh
+
+We show how a Hamiltonian can be represented in a basis where dynamics look more local, producing wave-packet behavior and suggesting a route toward quantum mereology for fields.
+
+[arXiv](https://arxiv.org/abs/2606.10004)
+:::
+:::
+
+::: {.pub-card}
+![](assets/publications/objectivity.jpg){.pub-image}
+
+::: {.pub-copy}
+<div class="pub-meta">arXiv:2606.06588 · 2026</div>
+
+### Demystifying Objectivity with Operator Algebra Quantum Error Correction
+
+**Marin Girard**, Gong Cheng, and ChunJun Cao
+
+We connect quantum Darwinism with operator algebra quantum error correction, making objectivity into a local recoverability question and giving computable tools for studying classicality and redundancy.
+
+[arXiv](https://arxiv.org/abs/2606.06588)
+:::
+:::
+
+::: {.pub-card}
+![](assets/publications/relativistic_thermo.png){.pub-image}
+
+::: {.pub-copy}
+<div class="pub-meta">arXiv:2210.04282 · 2022</div>
+
+### Relativistic thermodynamics of perfect fluids
+
+Sylvain D. Brechet and **Marin C. A. Girard**
+
+We develop a covariant thermodynamic description for relativistic perfect fluids, including relativistic continuity equations and transformation laws for thermodynamic quantities.
+
+[arXiv](https://arxiv.org/abs/2210.04282)
 :::
 :::

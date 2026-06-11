@@ -42,7 +42,7 @@ We connect quantum Darwinism with operator algebra quantum error correction, mak
 :::
 
 ::: {.pub-card}
-![](assets/publications/placeholder.svg){.pub-image}
+![](assets/publications/relativistic_thermo.png){.pub-image}
 
 ::: {.pub-copy}
 <div class="pub-meta">arXiv:2210.04282 · 2022</div>
