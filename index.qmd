@@ -29,7 +29,7 @@ These are belay glasses; I like climbing.
 :::
 :::
 
-## Recent Papers
+## Papers
 
 ::: {.pub-card}
 ![](assets/publications/mereology.jpg){.pub-image}
