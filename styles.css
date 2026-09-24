@@ -291,9 +291,7 @@ main.content {
 	color: var(--site-muted);
 }
 
-.blog-index .listing-date,
-.blog-index .listing-category,
-.blog-index .quarto-listing-category {
+.blog-index .listing-date {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 

@@ -1,30 +1,158 @@
 ---
 title: "Over Greenland"
-description: "Photographs and notes from a flight over Greenland."
-categories: [Travel, Photography]
+description: "I just want to share cool things I saw from the plane."
 body-classes: photo-essay
-draft: true
+draft: false
+date: 2026-09-24
 ---
 
-<!-- Add a publication date to the header when ready: date: YYYY-MM-DD -->
+Coming back from a month in Vienna, I flew over Iceland, Greenland, and the northeast coast of Canada, and I got to see some pretty cool things.
 
-<!-- Opening thoughts: where you were coming back from, and what caught your eye. -->
+Anyway, here is what I saw, in order.
 
-<!-- Add the first photograph below once the original file is in images/.
-Keep the image on its own line, with blank lines around it:
+A biiiiig ice sheet, which I thought was a flat cloud at first.
 
-![A short caption in your own words.](images/01.jpg){.column-page fig-alt="Describe what is visible in this photograph." group="greenland" loading="eager"}
+![](images/ice1.jpg){.column-page fig-alt="An ice sheet seen from the plane" group="greenland" loading="eager"}
 
--->
+Then, as land appears, you notice that it is, in fact, ice. The blue tint is because the windows were slowly losing their tint.
 
-<!-- Write your notes or thoughts here. Paragraphs can be as short or long as you like. -->
+![](images/ice3.jpg){.column-page fig-alt="Ice and emerging land seen through the tinted window" group="greenland" loading="lazy"}
 
-<!-- Add another photograph, then more text. Repeat as often as you like:
+The next three images show cool new details appearing: rugged rock and an isolated rocky island in the middle of the ice.
 
-![Another caption.](images/02.jpg){.column-page fig-alt="Describe this photograph." group="greenland" loading="lazy"}
+![](images/firstland.jpg){.column-page fig-alt="Rocky land emerging from the ice" group="greenland" loading="lazy"}
 
-[View original image](images/02.jpg){target="_blank"}
+![](images/ice_flow.jpg){.column-page fig-alt="Ice flowing between rocky landforms" group="greenland" loading="lazy"}
 
--->
+![](images/isolated_rock.jpg){.column-page fig-alt="An isolated rocky island in the ice" group="greenland" loading="lazy"}
 
-<!-- Closing thoughts, if you want them. -->
+Mountains with cool shadows.
+
+![](images/shadow_mountains.jpg){.column-page fig-alt="Mountains casting shadows" group="greenland" loading="lazy"}
+
+A small piece of rock protruding from the ice. I wonder how big it is.
+
+![](images/small_rock.jpg){.column-page fig-alt="A small piece of rock protruding from the ice" group="greenland" loading="lazy"}
+
+In a wider view, we can see water channels of different colors: icy blue (maybe there is ice in there) and deeper blue. The deeper blue ones appear disconnected from the ice???
+
+![](images/wideview.jpg){.column-page fig-alt="A wide view of ice and blue water channels" group="greenland" loading="lazy"}
+
+The boundaries between huge ice sheets and the sea are very cool. It's pretty much a glacier, but in the sea. Here are a few images of that.
+
+![](images/far_away.jpg){.column-page fig-alt="A distant view of ice meeting the sea" group="greenland" loading="lazy"}
+
+![](images/ice_water.jpg){.column-page fig-alt="Ice and water" group="greenland" loading="lazy"}
+
+![](images/ice_water2.jpg){.column-page fig-alt="Another view of ice and water" group="greenland" loading="lazy"}
+
+![](images/bigview.jpg){.column-page fig-alt="A wide view of the Greenland landscape" group="greenland" loading="lazy"}
+
+The ice sheets extending inland in flowing shapes are neat because, if you look closely, the ice has a lot of surface structure. I think what we are seeing are marks from the downward flow of the ice. Interestingly, the curves we see on the ice are a lot smoother than the curves along the edges of the ice riverbed. Maybe that's because it's behaving somewhat like a fluid?
+
+![](images/ice_flo2.jpg){.column-page fig-alt="Surface patterns in flowing ice" group="greenland" loading="lazy"}
+
+![](images/ice_flow3.jpg){.column-page fig-alt="Curving patterns in the ice" group="greenland" loading="lazy"}
+
+![](images/ice_flowagain.jpg){.column-page fig-alt="Another view of surface patterns in the ice" group="greenland" loading="lazy"}
+
+We see more of these marks in the next image, but we also see very clearly the two colors that water can take. Basically, the color of lakes versus the sea, I think. We also see more of the topography thanks to the shadows (not to be confused with the lakes).
+
+![](images/lakes_shadow.jpg){.column-page fig-alt="Lakes and shadows in the landscape" group="greenland" loading="lazy"}
+
+![](images/shadow_mountains2.jpg){.column-page fig-alt="Shadows revealing the mountain topography" group="greenland" loading="lazy"}
+
+A picture of a tiny melted area in the huge ice flow. No idea why it melted, but we can see a valley leading to it.
+
+![](images/tiny_lake.jpg){.column-page fig-alt="A small area of water in the ice" group="greenland" loading="lazy"}
+
+Leaving the ice behind a bit, we can start noticing cliffs in the distance! A massive slab wall for the brave. And zooming in, we also see a minuscule beach (I think).
+
+![](images/many_features.jpg){.column-page fig-alt="Ice, rocky terrain, and distant cliffs" group="greenland" loading="lazy"}
+
+![](images/tiny_beach.jpg){.column-page fig-alt="A small beach-like feature along the water" group="greenland" loading="lazy"}
+
+So much water trapped in lakes.
+
+![](images/bigview.jpg){.column-page fig-alt="A wide view of the Greenland landscape" group="greenland" loading="lazy"}
+
+The landscape looks a lot steeper in the distance.
+
+![](images/faraway_cliffs.jpg){.column-page fig-alt="Cliffs in the distance" group="greenland" loading="lazy"}
+
+I can now say that I have seen an iceberg.
+
+![](images/ice_cubes.jpg){.column-page fig-alt="Icebergs in the water" group="greenland" loading="lazy"}
+
+Many icebergs.
+
+![](images/ice_flow_infiniity.jpg){.column-page fig-alt="Many icebergs across the water" group="greenland" loading="lazy"}
+
+![](images/ice_flow_into_ocean.jpg){.column-page fig-alt="Ice reaching the ocean" group="greenland" loading="lazy"}
+
+This particular valley seems very cool. It looks deep, and somehow like it's curving.
+
+![](images/shadowvaley2.jpg){.column-page fig-alt="A deep valley with curved terrain" group="greenland" loading="lazy"}
+
+![](images/shadow_valley_again.jpg){.column-page fig-alt="Another view of the shadowed valley" group="greenland" loading="lazy"}
+
+Now for some water things. Water coming from two distinct valleys/ice rivers is merging, and the two streams somehow have different colors. Why is there more mud in one of them??
+
+![](images/water_merge.jpg){.column-page fig-alt="Two differently colored streams merging" group="greenland" loading="lazy"}
+
+Pictures of the coast. Very difficult to say what altitude these were taken from. 100 km or 5 km? Commercial flights are typically at 10 km, apparently. I think that difficulty in figuring out the distance is something fractals share!
+
+![](images/coast.jpg){.column-page fig-alt="The Greenland coast" group="greenland" loading="lazy"}
+
+![](images/cool_coast.jpg){.column-page fig-alt="Coastal terrain and water" group="greenland" loading="lazy"}
+
+![](images/farview.jpg){.column-page fig-alt="A distant view of the coastline" group="greenland" loading="lazy"}
+
+Super far away. I feel like that distant ice flow is probably close to 100 km away from me. And look at all that ice flowing to the ocean!
+
+![](images/the_furthest_view.jpg){.column-page fig-alt="Ice flow and coastal terrain in the distance" group="greenland" loading="lazy"}
+
+![](images/far_ice.jpg){.column-page fig-alt="Distant ice flowing toward the sea" group="greenland" loading="lazy"}
+
+![](images/ice_flow_for_real_this_time.jpg){.column-page fig-alt="An ice flow leading toward the ocean" group="greenland" loading="lazy"}
+
+![](images/coastandiceflow.jpg){.column-page fig-alt="Coastline beside an ice flow" group="greenland" loading="lazy"}
+
+And again, the farther I look, the taller the cliffs look. There is also a small mountain sticking out of the ice.
+
+![](images/farawaymountain.jpg){.column-page fig-alt="A distant mountain protruding from the ice" group="greenland" loading="lazy"}
+
+Tiny islands. But also, look at the color gradient in the water! Fresh water doing something weird to seawater? Minerals being ground down by the ice and washed down to the sea? It's really surprising how visible it is.
+
+![](images/tiny_islands.jpg){.column-page fig-alt="Small islands and a color gradient in the water" group="greenland" loading="lazy"}
+
+![](images/tiny_islands2.jpg){.column-page fig-alt="Another view of small islands and surrounding water" group="greenland" loading="lazy"}
+
+Finishing up with a wide view and cool clouds.
+
+![](images/wideview2.jpg){.column-page fig-alt="A wide view of the landscape" group="greenland" loading="lazy"}
+
+![](images/coastandclouds2.jpg){.column-page fig-alt="Coastline and clouds" group="greenland" loading="lazy"}
+
+Actually, finishing up with a circular double rainbow I saw just past Greenland. Zoom in; it's not that small.
+
+![](images/rb2.jpg){.column-page fig-alt="A circular double rainbow seen from the plane" group="greenland" loading="lazy"}
+
+![](images/rb5.jpg){.column-page fig-alt="Another view of the circular double rainbow" group="greenland" loading="lazy"}
+
+And some clouds with a super neat texture.
+
+![](images/more_cool_clouds.jpg){.column-page fig-alt="Clouds with intricate textures" group="greenland" loading="lazy"}
+
+And a jet with a trail that somehow looks black.
+
+![](images/jet.jpg){.column-page fig-alt="A jet with a dark-looking trail" group="greenland" loading="lazy"}
+
+![](images/jet7.jpg){.column-page fig-alt="Another view of the jet and its trail" group="greenland" loading="lazy"}
+
+![](images/jetagain.jpg){.column-page fig-alt="The jet and its trail in the sky" group="greenland" loading="lazy"}
+
+![](images/jetinspace.jpg){.column-page fig-alt="A distant jet and its trail" group="greenland" loading="lazy"}
+
+Final thoughts: look out the window more, and save some money to go spend a month in Greenland.
+And why didn't I see these things on the previous 10 flights? Turns out it makes sense: I need a window seat (2/9), a daytime flight (~1/2), good weather (???), and to not be busy watching a movie (~1/2). So, less than a 5% chance.
