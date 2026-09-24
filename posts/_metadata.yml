@@ -3,3 +3,4 @@ format:
   html:
     title-block-banner: false
     include-after-body: ../_back-to-blog.html
+lightbox: true

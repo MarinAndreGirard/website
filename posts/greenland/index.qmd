@@ -1,0 +1,30 @@
+---
+title: "Over Greenland"
+description: "Photographs and notes from a flight over Greenland."
+categories: [Travel, Photography]
+body-classes: photo-essay
+draft: true
+---
+
+<!-- Add a publication date to the header when ready: date: YYYY-MM-DD -->
+
+<!-- Opening thoughts: where you were coming back from, and what caught your eye. -->
+
+<!-- Add the first photograph below once the original file is in images/.
+Keep the image on its own line, with blank lines around it:
+
+![A short caption in your own words.](images/01.jpg){.column-page fig-alt="Describe what is visible in this photograph." group="greenland" loading="eager"}
+
+-->
+
+<!-- Write your notes or thoughts here. Paragraphs can be as short or long as you like. -->
+
+<!-- Add another photograph, then more text. Repeat as often as you like:
+
+![Another caption.](images/02.jpg){.column-page fig-alt="Describe this photograph." group="greenland" loading="lazy"}
+
+[View original image](images/02.jpg){target="_blank"}
+
+-->
+
+<!-- Closing thoughts, if you want them. -->
