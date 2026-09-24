@@ -2,6 +2,12 @@
 title: "Over Greenland"
 description: "I just want to share cool things I saw from the plane."
 body-classes: photo-essay
+lightbox: false
+resources:
+  - images/**
+filters:
+  - ../../filters/responsive-photos.lua
+include-in-header: ../../assets/photo-viewer/head.html
 draft: false
 date: 2026-09-24
 ---

@@ -24,5 +24,22 @@ photos and writing are ready.
 - Quarto copies the referenced image files without recompressing them. Use original JPEG or PNG files rather than screenshots or messaging-app copies. HEIC or RAW photographs need browser-compatible exports; keep the camera originals separately.
 - Photographs retain their aspect ratio and are not cropped. A `View original image` link can also open the original file directly for closer inspection.
 
-For a large collection, smaller display copies can be added later for faster
-loading while retaining full-resolution originals for enlarged viewing.
+## Fast loading with full-resolution originals
+
+Greenland uses responsive WebP display copies and a PhotoSwipe viewer. Clicking a
+photo loads its unchanged original; the viewer supports zooming, panning, and an
+Original link. Keep authoring with the original `images/filename.jpg` paths.
+The filter also separates images from nearby prose if a blank line is missing.
+
+`quarto render` runs `scripts/prepare-photos.py`. Already-generated copies are
+reused using original-file hashes. New or changed photos require Pillow:
+`python3 -m pip install -r requirements-photos.txt`. GitHub Actions installs this
+automatically. Generated copies and their manifest in `assets/photo-previews/`
+should be committed with the post. The script never rewrites originals.
+
+For another photo essay, copy Greenland's `resources`, `lightbox`, `filters`, and
+`include-in-header` settings into its front matter, alongside
+`body-classes: photo-essay`. Display copies preserve the source aspect ratio,
+orientation, and color profile. The preview uses 640, 1280, or 1920 pixels of
+width; the viewer always uses the full-resolution original. PhotoSwipe's pinned
+files and MIT license are in `assets/photoswipe/`.

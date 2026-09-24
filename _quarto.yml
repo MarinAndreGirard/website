@@ -1,5 +1,6 @@
 project:
   type: website
+  pre-render: python3 scripts/prepare-photos.py
   resources:
     - cv.pdf
     - assets/**
