@@ -6,6 +6,7 @@ project:
 
 website:
   title: "Marin Girard"
+  draft-mode: gone
   page-footer:
     right: "Last updated: June 11, 2026"
   navbar:
@@ -14,6 +15,8 @@ website:
         href: index.qmd
       - text: "Publications"
         href: publications.qmd
+      - text: "Blog"
+        href: blog.qmd
       - text: "CV"
         href: cv.pdf
 

@@ -1,0 +1,26 @@
+---
+title: "Blog"
+body-classes: blog-index
+listing:
+  id: blog-posts
+  contents: posts/*/index.qmd
+  type: default
+  sort: "date desc"
+  categories: true
+  fields: [date, title, description, categories]
+  date-format: "MMM D, YYYY"
+  sort-ui: false
+  filter-ui: false
+  page-size: 10
+---
+
+::: {.page-heading}
+Notes and longer thoughts on physics and other topics.
+:::
+
+::: {.blog-empty}
+No posts yet. Check back soon.
+:::
+
+::: {#blog-posts}
+:::

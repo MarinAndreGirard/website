@@ -264,3 +264,41 @@ main.content {
 		font-size: 2.3rem;
 	}
 }
+
+/* Blog listings share the site's restrained publication styling. */
+.blog-empty {
+	margin: 1.5rem 0;
+	padding: 1.25rem;
+	border-left: 3px solid rgba(27, 106, 91, 0.35);
+	color: var(--site-muted);
+	background: var(--site-panel);
+}
+
+.blog-index:has(#listing-blog-posts .quarto-post) .blog-empty {
+	display: none;
+}
+
+.blog-index:not(:has(#listing-blog-posts .quarto-post)) #listing-blog-posts,
+.blog-index:not(:has(#listing-blog-posts .quarto-post)) #quarto-margin-sidebar {
+	display: none;
+}
+
+.blog-index .quarto-post {
+	border-bottom-color: var(--site-border);
+}
+
+.blog-index .listing-description {
+	color: var(--site-muted);
+}
+
+.blog-index .listing-date,
+.blog-index .listing-category,
+.blog-index .quarto-listing-category {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.blog-back {
+	margin-top: 3rem;
+	padding-top: 1rem;
+	border-top: 1px solid var(--site-border);
+}

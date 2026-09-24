@@ -1,0 +1,9 @@
+---
+title: "Your post title"
+description: "A short summary for the blog page."
+date: 2026-09-24
+categories: [General]
+draft: true
+---
+
+Write your post here.
