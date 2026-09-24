@@ -291,9 +291,7 @@ main.content {
 	color: var(--site-muted);
 }
 
-.blog-index .listing-date,
-.blog-index .listing-category,
-.blog-index .quarto-listing-category {
+.blog-index .listing-date {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
@@ -301,4 +299,26 @@ main.content {
 	margin-top: 3rem;
 	padding-top: 1rem;
 	border-top: 1px solid var(--site-border);
+}
+
+/* Photo essays keep the full frame and allow pictures beyond the text column. */
+.photo-essay main.content {
+	max-width: none;
+}
+
+.photo-essay .quarto-figure {
+	margin-block: 2.5rem;
+}
+
+.photo-essay .quarto-figure img {
+	max-width: 100%;
+	height: auto;
+}
+
+.photo-essay figcaption {
+	max-width: 65ch;
+	margin: 0.75rem auto 0;
+	color: var(--site-muted);
+	font-size: 0.95rem;
+	line-height: 1.5;
 }

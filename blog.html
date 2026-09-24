@@ -85,9 +85,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -146,7 +146,7 @@ window.Quarto = {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed blog-index quarto-light">
+<body class="nav-fixed blog-index fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -190,8 +190,7 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
+    
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -214,15 +213,28 @@ window.Quarto = {
 </header>
 
 
-<div class="page-heading">
-<p>Notes and longer thoughts on physics and other topics.</p>
-</div>
 <div class="blog-empty">
 <p>No posts yet. Check back soon.</p>
 </div>
 <div id="listing-blog-posts" class="quarto-listing quarto-listing-container-default">
 <div class="list quarto-listing-default">
-
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1790208000000" data-listing-file-modified-sort="1790286752796" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1017">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/greenland/index.html" class="no-external">Over Greenland</a>
+</h3>
+<div class="delink listing-description"><a href="./posts/greenland/index.html" class="no-external">
+<p>I just want to share cool things I saw from the plane.</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/greenland/index.html" class="no-external">
+<div class="listing-date">
+Sep 24, 2026
+</div>
+</a>
+</div>
+</div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div>
