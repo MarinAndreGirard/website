@@ -1,0 +1,922 @@
+{
+  "posts/greenland/images/bigview.jpg": {
+    "height": 3472,
+    "recipe": "webp-q88-v1",
+    "sha256": "e4212e89efb389fe5464f2b5176ad32a65da8fc1ad59fc510dd90cf2eee9e611",
+    "variants": [
+      {
+        "src": "assets/photo-previews/greenland/bigview-e4212e89efb3-640.webp",
+        "width": 640
+      },
+      {
+        "src": "assets/photo-previews/greenland/bigview-e4212e89efb3-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "assets/photo-previews/greenland/bigview-e4212e89efb3-1920.webp",
+        "width": 1920
+      }
+    ],
+    "width": 4624
+  },
+  "posts/greenland/images/coast.jpg": {
+    "height": 4624,
+    "recipe": "webp-q88-v1",
+    "sha256": "510fb67b79104150dbcd7565a57afa3fcafcc8ecd20f3d5747a2a2f587e58834",
+    "variants": [
+      {
+        "src": "assets/photo-previews/greenland/coast-510fb67b7910-640.webp",
+        "width": 640
+      },
+      {
+        "src": "assets/photo-previews/greenland/coast-510fb67b7910-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "assets/photo-previews/greenland/coast-510fb67b7910-1920.webp",
+        "width": 1920
+      }
+    ],
+    "width": 3472
+  },
+  "posts/greenland/images/coastandclouds2.jpg": {
+    "height": 3472,
+    "recipe": "webp-q88-v1",
+    "sha256": "3719aef5abcc0c933c8ed7c05df3ef72fe027f8371f95e2dbacda25320ec1c82",
+    "variants": [
+      {
+        "src": "assets/photo-previews/greenland/coastandclouds2-3719aef5abcc-640.webp",
+        "width": 640
+      },
+      {
+        "src": "assets/photo-previews/greenland/coastandclouds2-3719aef5abcc-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "assets/photo-previews/greenland/coastandclouds2-3719aef5abcc-1920.webp",
+        "width": 1920
+      }
+    ],
+    "width": 4624
+  },
+  "posts/greenland/images/coastandiceflow.jpg": {
+    "height": 3472,
+    "recipe": "webp-q88-v1",
+    "sha256": "c263e3c311e3bf8ed1c6bf4777dfdfa55f275b5c33cfd322f30f85e5524ea0c7",
+    "variants": [
+      {
+        "src": "assets/photo-previews/greenland/coastandiceflow-c263e3c311e3-640.webp",
+        "width": 640
+      },
+      {
+        "src": "assets/photo-previews/greenland/coastandiceflow-c263e3c311e3-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "assets/photo-previews/greenland/coastandiceflow-c263e3c311e3-1920.webp",
+        "width": 1920
+      }
+    ],
+    "width": 4624
+  },
+  "posts/greenland/images/cool_coast.jpg": {
+    "height": 4624,
+    "recipe": "webp-q88-v1",
+    "sha256": "b7e61e3b8fe195cb516d8ef02390769d273c8d4c98d40c0dfcdc933f6fda0c3e",
+    "variants": [
+      {
+        "src": "assets/photo-previews/greenland/cool_coast-b7e61e3b8fe1-640.webp",
+        "width": 640
+      },
+      {
+        "src": "assets/photo-previews/greenland/cool_coast-b7e61e3b8fe1-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "assets/photo-previews/greenland/cool_coast-b7e61e3b8fe1-1920.webp",
+        "width": 1920
+      }
+    ],
+    "width": 3472
+  },
+  "posts/greenland/images/far_away.jpg": {
+    "height": 4624,
+    "recipe": "webp-q88-v1",
+    "sha256": "4e80219b9bbb7a58f0e27ae9177bfe77d400c0f3d7ca573a34570a9fbf8571a8",
+    "variants": [
+      {
+        "src": "assets/photo-previews/greenland/far_away-4e80219b9bbb-640.webp",
+        "width": 640
+      },
+      {
+        "src": "assets/photo-previews/greenland/far_away-4e80219b9bbb-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "assets/photo-previews/greenland/far_away-4e80219b9bbb-1920.webp",
+        "width": 1920
+      }
+    ],
+    "width": 3472
+  },
+  "posts/greenland/images/far_ice.jpg": {
+    "height": 3472,
+    "recipe": "webp-q88-v1",
+    "sha256": "207b5646e524cdcf60d59d950e43abf3c8168ad8352b595d6afe2ecceb2bd411",
+    "variants": [
+      {
+        "src": "assets/photo-previews/greenland/far_ice-207b5646e524-640.webp",
+        "width": 640
+      },
+      {
+        "src": "assets/photo-previews/greenland/far_ice-207b5646e524-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "assets/photo-previews/greenland/far_ice-207b5646e524-1920.webp",
+        "width": 1920
+      }
+    ],
+    "width": 4624
+  },
+  "posts/greenland/images/faraway_cliffs.jpg": {
+    "height": 3472,
+    "recipe": "webp-q88-v1",
+    "sha256": "72f3654dc038e32a2a01c95abe44b5971ef53ead3e1b2d4f61c3c8eac728b977",
+    "variants": [
+      {
+        "src": "assets/photo-previews/greenland/faraway_cliffs-72f3654dc038-640.webp",
+        "width": 640
+      },
+      {
+        "src": "assets/photo-previews/greenland/faraway_cliffs-72f3654dc038-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "assets/photo-previews/greenland/faraway_cliffs-72f3654dc038-1920.webp",
+        "width": 1920
+      }
+    ],
+    "width": 4624
+  },
+  "posts/greenland/images/farawaymountain.jpg": {
+    "height": 3472,
+    "recipe": "webp-q88-v1",
+    "sha256": "7b47779d0f2617e1aeb37523fa32bc3f8fdf67c48aed5684e6723116156f683a",
+    "variants": [
+      {
+        "src": "assets/photo-previews/greenland/farawaymountain-7b47779d0f26-640.webp",
+        "width": 640
+      },
+      {
+        "src": "assets/photo-previews/greenland/farawaymountain-7b47779d0f26-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "assets/photo-previews/greenland/farawaymountain-7b47779d0f26-1920.webp",
+        "width": 1920
+      }
+    ],
+    "width": 4624
+  },
+  "posts/greenland/images/farview.jpg": {
+    "height": 3472,
+    "recipe": "webp-q88-v1",
+    "sha256": "348c65f1b56cdd8a839ac65e454bdc355998cded1fb910bb2cf5ae19700189c3",
+    "variants": [
+      {
+        "src": "assets/photo-previews/greenland/farview-348c65f1b56c-640.webp",
+        "width": 640
+      },
+      {
+        "src": "assets/photo-previews/greenland/farview-348c65f1b56c-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "assets/photo-previews/greenland/farview-348c65f1b56c-1920.webp",
+        "width": 1920
+      }
+    ],
+    "width": 4624
+  },
+  "posts/greenland/images/firstland.jpg": {
+    "height": 4624,
+    "recipe": "webp-q88-v1",
+    "sha256": "a2da4d5b18e2446445643cf7daa5947f124b16c83dff0774935e02bf306c2a72",
+    "variants": [
+      {
+        "src": "assets/photo-previews/greenland/firstland-a2da4d5b18e2-640.webp",
+        "width": 640
+      },
+      {
+        "src": "assets/photo-previews/greenland/firstland-a2da4d5b18e2-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "assets/photo-previews/greenland/firstland-a2da4d5b18e2-1920.webp",
+        "width": 1920
+      }
+    ],
+    "width": 3472
+  },
+  "posts/greenland/images/ice1.jpg": {
+    "height": 4624,
+    "recipe": "webp-q88-v1",
+    "sha256": "02fdcb1a7d87ebd8be1e4b3788872b8972d51dbce4e18b67b0ba1a7553f316a6",
+    "variants": [
+      {
+        "src": "assets/photo-previews/greenland/ice1-02fdcb1a7d87-640.webp",
+        "width": 640
+      },
+      {
+        "src": "assets/photo-previews/greenland/ice1-02fdcb1a7d87-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "assets/photo-previews/greenland/ice1-02fdcb1a7d87-1920.webp",
+        "width": 1920
+      }
+    ],
+    "width": 3472
+  },
+  "posts/greenland/images/ice3.jpg": {
+    "height": 4624,
+    "recipe": "webp-q88-v1",
+    "sha256": "3d1ac8d182e4125b42019639defa0613bda0f9ab224aa05f9408e382ef6bb590",
+    "variants": [
+      {
+        "src": "assets/photo-previews/greenland/ice3-3d1ac8d182e4-640.webp",
+        "width": 640
+      },
+      {
+        "src": "assets/photo-previews/greenland/ice3-3d1ac8d182e4-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "assets/photo-previews/greenland/ice3-3d1ac8d182e4-1920.webp",
+        "width": 1920
+      }
+    ],
+    "width": 3472
+  },
+  "posts/greenland/images/ice_cubes.jpg": {
+    "height": 4624,
+    "recipe": "webp-q88-v1",
+    "sha256": "dadab3640f99b92afc084bea3d8023468f252a14447bd98aa0fa6c656cd95bca",
+    "variants": [
+      {
+        "src": "assets/photo-previews/greenland/ice_cubes-dadab3640f99-640.webp",
+        "width": 640
+      },
+      {
+        "src": "assets/photo-previews/greenland/ice_cubes-dadab3640f99-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "assets/photo-previews/greenland/ice_cubes-dadab3640f99-1920.webp",
+        "width": 1920
+      }
+    ],
+    "width": 3472
+  },
+  "posts/greenland/images/ice_flo2.jpg": {
+    "height": 4624,
+    "recipe": "webp-q88-v1",
+    "sha256": "379d36c26f3e9b1cd4be235fe85d8fd145d44ad391dcad2e0da8e7b802a32f09",
+    "variants": [
+      {
+        "src": "assets/photo-previews/greenland/ice_flo2-379d36c26f3e-640.webp",
+        "width": 640
+      },
+      {
+        "src": "assets/photo-previews/greenland/ice_flo2-379d36c26f3e-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "assets/photo-previews/greenland/ice_flo2-379d36c26f3e-1920.webp",
+        "width": 1920
+      }
+    ],
+    "width": 3472
+  },
+  "posts/greenland/images/ice_flow.jpg": {
+    "height": 4624,
+    "recipe": "webp-q88-v1",
+    "sha256": "b887008a09096335e93afce67baaa50b540c0148ea3f136f6f59f2085f6205a4",
+    "variants": [
+      {
+        "src": "assets/photo-previews/greenland/ice_flow-b887008a0909-640.webp",
+        "width": 640
+      },
+      {
+        "src": "assets/photo-previews/greenland/ice_flow-b887008a0909-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "assets/photo-previews/greenland/ice_flow-b887008a0909-1920.webp",
+        "width": 1920
+      }
+    ],
+    "width": 3472
+  },
+  "posts/greenland/images/ice_flow3.jpg": {
+    "height": 4624,
+    "recipe": "webp-q88-v1",
+    "sha256": "96b04cbd4a3e7366d38f39f1216cb8e824554a7a56fcba78eb36dfc835176c12",
+    "variants": [
+      {
+        "src": "assets/photo-previews/greenland/ice_flow3-96b04cbd4a3e-640.webp",
+        "width": 640
+      },
+      {
+        "src": "assets/photo-previews/greenland/ice_flow3-96b04cbd4a3e-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "assets/photo-previews/greenland/ice_flow3-96b04cbd4a3e-1920.webp",
+        "width": 1920
+      }
+    ],
+    "width": 3472
+  },
+  "posts/greenland/images/ice_flow_for_real_this_time.jpg": {
+    "height": 3472,
+    "recipe": "webp-q88-v1",
+    "sha256": "40a99975bd8e4f3da033b968e30247efc41fb71eb3de99ba793781316c008eb0",
+    "variants": [
+      {
+        "src": "assets/photo-previews/greenland/ice_flow_for_real_this_time-40a99975bd8e-640.webp",
+        "width": 640
+      },
+      {
+        "src": "assets/photo-previews/greenland/ice_flow_for_real_this_time-40a99975bd8e-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "assets/photo-previews/greenland/ice_flow_for_real_this_time-40a99975bd8e-1920.webp",
+        "width": 1920
+      }
+    ],
+    "width": 4624
+  },
+  "posts/greenland/images/ice_flow_infiniity.jpg": {
+    "height": 3472,
+    "recipe": "webp-q88-v1",
+    "sha256": "5370f84537ad031ff6330e3973dda84e510b6c922faa96754d274ed0174b1b37",
+    "variants": [
+      {
+        "src": "assets/photo-previews/greenland/ice_flow_infiniity-5370f84537ad-640.webp",
+        "width": 640
+      },
+      {
+        "src": "assets/photo-previews/greenland/ice_flow_infiniity-5370f84537ad-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "assets/photo-previews/greenland/ice_flow_infiniity-5370f84537ad-1920.webp",
+        "width": 1920
+      }
+    ],
+    "width": 4624
+  },
+  "posts/greenland/images/ice_flow_into_ocean.jpg": {
+    "height": 3472,
+    "recipe": "webp-q88-v1",
+    "sha256": "fd1d74bc866b692d860c9f623ed02bb55257c10778b91faa3933150de03fbfbf",
+    "variants": [
+      {
+        "src": "assets/photo-previews/greenland/ice_flow_into_ocean-fd1d74bc866b-640.webp",
+        "width": 640
+      },
+      {
+        "src": "assets/photo-previews/greenland/ice_flow_into_ocean-fd1d74bc866b-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "assets/photo-previews/greenland/ice_flow_into_ocean-fd1d74bc866b-1920.webp",
+        "width": 1920
+      }
+    ],
+    "width": 4624
+  },
+  "posts/greenland/images/ice_flowagain.jpg": {
+    "height": 4624,
+    "recipe": "webp-q88-v1",
+    "sha256": "a27199bc26d4eb877d0250e746bf86bc2f09ab946c0f5de604cbf99796e45074",
+    "variants": [
+      {
+        "src": "assets/photo-previews/greenland/ice_flowagain-a27199bc26d4-640.webp",
+        "width": 640
+      },
+      {
+        "src": "assets/photo-previews/greenland/ice_flowagain-a27199bc26d4-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "assets/photo-previews/greenland/ice_flowagain-a27199bc26d4-1920.webp",
+        "width": 1920
+      }
+    ],
+    "width": 3472
+  },
+  "posts/greenland/images/ice_water.jpg": {
+    "height": 4624,
+    "recipe": "webp-q88-v1",
+    "sha256": "e613d605d1f13de104a890152ffca9379ed6f62833c0bc0de8dc7c36ebe2442d",
+    "variants": [
+      {
+        "src": "assets/photo-previews/greenland/ice_water-e613d605d1f1-640.webp",
+        "width": 640
+      },
+      {
+        "src": "assets/photo-previews/greenland/ice_water-e613d605d1f1-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "assets/photo-previews/greenland/ice_water-e613d605d1f1-1920.webp",
+        "width": 1920
+      }
+    ],
+    "width": 3472
+  },
+  "posts/greenland/images/ice_water2.jpg": {
+    "height": 4624,
+    "recipe": "webp-q88-v1",
+    "sha256": "80487a598dd336c30a72e7d0dca42cc1a8231c2f9315024121e034d649410310",
+    "variants": [
+      {
+        "src": "assets/photo-previews/greenland/ice_water2-80487a598dd3-640.webp",
+        "width": 640
+      },
+      {
+        "src": "assets/photo-previews/greenland/ice_water2-80487a598dd3-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "assets/photo-previews/greenland/ice_water2-80487a598dd3-1920.webp",
+        "width": 1920
+      }
+    ],
+    "width": 3472
+  },
+  "posts/greenland/images/isolated_rock.jpg": {
+    "height": 4624,
+    "recipe": "webp-q88-v1",
+    "sha256": "c8a17113082bde4a56818c73a431cecb34e84a99872f9c4980e3d74804039c96",
+    "variants": [
+      {
+        "src": "assets/photo-previews/greenland/isolated_rock-c8a17113082b-640.webp",
+        "width": 640
+      },
+      {
+        "src": "assets/photo-previews/greenland/isolated_rock-c8a17113082b-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "assets/photo-previews/greenland/isolated_rock-c8a17113082b-1920.webp",
+        "width": 1920
+      }
+    ],
+    "width": 3472
+  },
+  "posts/greenland/images/jet.jpg": {
+    "height": 3472,
+    "recipe": "webp-q88-v1",
+    "sha256": "aeaad9ac562c5828f90eecd98f2cb9fbaf8dd169586cc6159d31e0cedfd8c4d4",
+    "variants": [
+      {
+        "src": "assets/photo-previews/greenland/jet-aeaad9ac562c-640.webp",
+        "width": 640
+      },
+      {
+        "src": "assets/photo-previews/greenland/jet-aeaad9ac562c-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "assets/photo-previews/greenland/jet-aeaad9ac562c-1920.webp",
+        "width": 1920
+      }
+    ],
+    "width": 4624
+  },
+  "posts/greenland/images/jet7.jpg": {
+    "height": 4624,
+    "recipe": "webp-q88-v1",
+    "sha256": "552a18047f062c9e6636e73eb68d10dbee8de74f38387ac45edd355cdbead793",
+    "variants": [
+      {
+        "src": "assets/photo-previews/greenland/jet7-552a18047f06-640.webp",
+        "width": 640
+      },
+      {
+        "src": "assets/photo-previews/greenland/jet7-552a18047f06-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "assets/photo-previews/greenland/jet7-552a18047f06-1920.webp",
+        "width": 1920
+      }
+    ],
+    "width": 3472
+  },
+  "posts/greenland/images/jetagain.jpg": {
+    "height": 4624,
+    "recipe": "webp-q88-v1",
+    "sha256": "fecd20875fd4ccd65528ce60712ef7b650a60c06fc50c6ca528d6beafadfb4ca",
+    "variants": [
+      {
+        "src": "assets/photo-previews/greenland/jetagain-fecd20875fd4-640.webp",
+        "width": 640
+      },
+      {
+        "src": "assets/photo-previews/greenland/jetagain-fecd20875fd4-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "assets/photo-previews/greenland/jetagain-fecd20875fd4-1920.webp",
+        "width": 1920
+      }
+    ],
+    "width": 3472
+  },
+  "posts/greenland/images/jetinspace.jpg": {
+    "height": 4624,
+    "recipe": "webp-q88-v1",
+    "sha256": "7b32405c6035abd4ef7c1c06dffe16fb3c1054ccc7cc4eb771f566b4f9b48f93",
+    "variants": [
+      {
+        "src": "assets/photo-previews/greenland/jetinspace-7b32405c6035-640.webp",
+        "width": 640
+      },
+      {
+        "src": "assets/photo-previews/greenland/jetinspace-7b32405c6035-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "assets/photo-previews/greenland/jetinspace-7b32405c6035-1920.webp",
+        "width": 1920
+      }
+    ],
+    "width": 3472
+  },
+  "posts/greenland/images/lakes_shadow.jpg": {
+    "height": 4624,
+    "recipe": "webp-q88-v1",
+    "sha256": "0f5b3c0e460a1884f3996f4898c0072675e97d959c9be1566c47a43d2bd53d6d",
+    "variants": [
+      {
+        "src": "assets/photo-previews/greenland/lakes_shadow-0f5b3c0e460a-640.webp",
+        "width": 640
+      },
+      {
+        "src": "assets/photo-previews/greenland/lakes_shadow-0f5b3c0e460a-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "assets/photo-previews/greenland/lakes_shadow-0f5b3c0e460a-1920.webp",
+        "width": 1920
+      }
+    ],
+    "width": 3472
+  },
+  "posts/greenland/images/many_features.jpg": {
+    "height": 4624,
+    "recipe": "webp-q88-v1",
+    "sha256": "3561f22ed56ab03241deecf99b979fb3c54d1bbe0990fd97f78693745c808071",
+    "variants": [
+      {
+        "src": "assets/photo-previews/greenland/many_features-3561f22ed56a-640.webp",
+        "width": 640
+      },
+      {
+        "src": "assets/photo-previews/greenland/many_features-3561f22ed56a-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "assets/photo-previews/greenland/many_features-3561f22ed56a-1920.webp",
+        "width": 1920
+      }
+    ],
+    "width": 3472
+  },
+  "posts/greenland/images/more_cool_clouds.jpg": {
+    "height": 4624,
+    "recipe": "webp-q88-v1",
+    "sha256": "aa0ccdbfa46481df771ffae3d3e29073509490febe13aa6855ac76573ee50189",
+    "variants": [
+      {
+        "src": "assets/photo-previews/greenland/more_cool_clouds-aa0ccdbfa464-640.webp",
+        "width": 640
+      },
+      {
+        "src": "assets/photo-previews/greenland/more_cool_clouds-aa0ccdbfa464-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "assets/photo-previews/greenland/more_cool_clouds-aa0ccdbfa464-1920.webp",
+        "width": 1920
+      }
+    ],
+    "width": 3472
+  },
+  "posts/greenland/images/rb2.jpg": {
+    "height": 4624,
+    "recipe": "webp-q88-v1",
+    "sha256": "9917192c15c9d4435536c7385529f42cb47f4ef0180577c331be35f9e7ca8588",
+    "variants": [
+      {
+        "src": "assets/photo-previews/greenland/rb2-9917192c15c9-640.webp",
+        "width": 640
+      },
+      {
+        "src": "assets/photo-previews/greenland/rb2-9917192c15c9-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "assets/photo-previews/greenland/rb2-9917192c15c9-1920.webp",
+        "width": 1920
+      }
+    ],
+    "width": 3472
+  },
+  "posts/greenland/images/rb5.jpg": {
+    "height": 4624,
+    "recipe": "webp-q88-v1",
+    "sha256": "5255896db77d69bbe2aa1732d3d37578a395f63f9211214eb0cffcb9dab95206",
+    "variants": [
+      {
+        "src": "assets/photo-previews/greenland/rb5-5255896db77d-640.webp",
+        "width": 640
+      },
+      {
+        "src": "assets/photo-previews/greenland/rb5-5255896db77d-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "assets/photo-previews/greenland/rb5-5255896db77d-1920.webp",
+        "width": 1920
+      }
+    ],
+    "width": 3472
+  },
+  "posts/greenland/images/shadow_mountains.jpg": {
+    "height": 4624,
+    "recipe": "webp-q88-v1",
+    "sha256": "2080cd0df86ecaf10ee3331bef80fe9935ded194af756d4ef9dbf10a4f5d08f2",
+    "variants": [
+      {
+        "src": "assets/photo-previews/greenland/shadow_mountains-2080cd0df86e-640.webp",
+        "width": 640
+      },
+      {
+        "src": "assets/photo-previews/greenland/shadow_mountains-2080cd0df86e-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "assets/photo-previews/greenland/shadow_mountains-2080cd0df86e-1920.webp",
+        "width": 1920
+      }
+    ],
+    "width": 3472
+  },
+  "posts/greenland/images/shadow_mountains2.jpg": {
+    "height": 4624,
+    "recipe": "webp-q88-v1",
+    "sha256": "1f4865e867a17ef9634243cd46813dde1568e39997eafab76d26503875f6a7de",
+    "variants": [
+      {
+        "src": "assets/photo-previews/greenland/shadow_mountains2-1f4865e867a1-640.webp",
+        "width": 640
+      },
+      {
+        "src": "assets/photo-previews/greenland/shadow_mountains2-1f4865e867a1-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "assets/photo-previews/greenland/shadow_mountains2-1f4865e867a1-1920.webp",
+        "width": 1920
+      }
+    ],
+    "width": 3472
+  },
+  "posts/greenland/images/shadow_valley_again.jpg": {
+    "height": 4624,
+    "recipe": "webp-q88-v1",
+    "sha256": "2338d8211e39aa00a4b869662c38d231188223bea9bd5c9ec5ae41c360d3ec91",
+    "variants": [
+      {
+        "src": "assets/photo-previews/greenland/shadow_valley_again-2338d8211e39-640.webp",
+        "width": 640
+      },
+      {
+        "src": "assets/photo-previews/greenland/shadow_valley_again-2338d8211e39-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "assets/photo-previews/greenland/shadow_valley_again-2338d8211e39-1920.webp",
+        "width": 1920
+      }
+    ],
+    "width": 3472
+  },
+  "posts/greenland/images/shadowvaley2.jpg": {
+    "height": 4624,
+    "recipe": "webp-q88-v1",
+    "sha256": "24c8a8ed4dce5c99547d9ea5680c5d74993c7cf8bcfd00c4bb96bd52e27e20e3",
+    "variants": [
+      {
+        "src": "assets/photo-previews/greenland/shadowvaley2-24c8a8ed4dce-640.webp",
+        "width": 640
+      },
+      {
+        "src": "assets/photo-previews/greenland/shadowvaley2-24c8a8ed4dce-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "assets/photo-previews/greenland/shadowvaley2-24c8a8ed4dce-1920.webp",
+        "width": 1920
+      }
+    ],
+    "width": 3472
+  },
+  "posts/greenland/images/small_rock.jpg": {
+    "height": 4624,
+    "recipe": "webp-q88-v1",
+    "sha256": "1f41ed533b5b63bc6976cc604eb1032eab75007d57bbae5103f272a9c9a6c7aa",
+    "variants": [
+      {
+        "src": "assets/photo-previews/greenland/small_rock-1f41ed533b5b-640.webp",
+        "width": 640
+      },
+      {
+        "src": "assets/photo-previews/greenland/small_rock-1f41ed533b5b-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "assets/photo-previews/greenland/small_rock-1f41ed533b5b-1920.webp",
+        "width": 1920
+      }
+    ],
+    "width": 3472
+  },
+  "posts/greenland/images/the_furthest_view.jpg": {
+    "height": 3472,
+    "recipe": "webp-q88-v1",
+    "sha256": "c36368c6e6e7f693d4a7b4ba7c02ffe537420c431dd8a01c0267c2a9c86064e4",
+    "variants": [
+      {
+        "src": "assets/photo-previews/greenland/the_furthest_view-c36368c6e6e7-640.webp",
+        "width": 640
+      },
+      {
+        "src": "assets/photo-previews/greenland/the_furthest_view-c36368c6e6e7-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "assets/photo-previews/greenland/the_furthest_view-c36368c6e6e7-1920.webp",
+        "width": 1920
+      }
+    ],
+    "width": 4624
+  },
+  "posts/greenland/images/tiny_beach.jpg": {
+    "height": 4624,
+    "recipe": "webp-q88-v1",
+    "sha256": "f2be37c29461e8cc472d9a6f36ce18c345ae20915d3cdf28605b30b50fb05131",
+    "variants": [
+      {
+        "src": "assets/photo-previews/greenland/tiny_beach-f2be37c29461-640.webp",
+        "width": 640
+      },
+      {
+        "src": "assets/photo-previews/greenland/tiny_beach-f2be37c29461-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "assets/photo-previews/greenland/tiny_beach-f2be37c29461-1920.webp",
+        "width": 1920
+      }
+    ],
+    "width": 3472
+  },
+  "posts/greenland/images/tiny_islands.jpg": {
+    "height": 3472,
+    "recipe": "webp-q88-v1",
+    "sha256": "c1b56f560d2e68a9b8ed3f7c593c438817e4eac5d81c72390f0454f35e63c962",
+    "variants": [
+      {
+        "src": "assets/photo-previews/greenland/tiny_islands-c1b56f560d2e-640.webp",
+        "width": 640
+      },
+      {
+        "src": "assets/photo-previews/greenland/tiny_islands-c1b56f560d2e-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "assets/photo-previews/greenland/tiny_islands-c1b56f560d2e-1920.webp",
+        "width": 1920
+      }
+    ],
+    "width": 4624
+  },
+  "posts/greenland/images/tiny_islands2.jpg": {
+    "height": 3472,
+    "recipe": "webp-q88-v1",
+    "sha256": "bb5559b55b6511a85514818ade9451070ddb0fb3f147b822b22200962fecb1c7",
+    "variants": [
+      {
+        "src": "assets/photo-previews/greenland/tiny_islands2-bb5559b55b65-640.webp",
+        "width": 640
+      },
+      {
+        "src": "assets/photo-previews/greenland/tiny_islands2-bb5559b55b65-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "assets/photo-previews/greenland/tiny_islands2-bb5559b55b65-1920.webp",
+        "width": 1920
+      }
+    ],
+    "width": 4624
+  },
+  "posts/greenland/images/tiny_lake.jpg": {
+    "height": 4624,
+    "recipe": "webp-q88-v1",
+    "sha256": "06ba054f344169c470cbbdf34cfb226a4fee54d0d85bfe137f06033def252861",
+    "variants": [
+      {
+        "src": "assets/photo-previews/greenland/tiny_lake-06ba054f3441-640.webp",
+        "width": 640
+      },
+      {
+        "src": "assets/photo-previews/greenland/tiny_lake-06ba054f3441-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "assets/photo-previews/greenland/tiny_lake-06ba054f3441-1920.webp",
+        "width": 1920
+      }
+    ],
+    "width": 3472
+  },
+  "posts/greenland/images/water_merge.jpg": {
+    "height": 4624,
+    "recipe": "webp-q88-v1",
+    "sha256": "4037fa8f08bfe815d79ad31eedd5244abc0255ede06a32c69f97ec8c53048550",
+    "variants": [
+      {
+        "src": "assets/photo-previews/greenland/water_merge-4037fa8f08bf-640.webp",
+        "width": 640
+      },
+      {
+        "src": "assets/photo-previews/greenland/water_merge-4037fa8f08bf-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "assets/photo-previews/greenland/water_merge-4037fa8f08bf-1920.webp",
+        "width": 1920
+      }
+    ],
+    "width": 3472
+  },
+  "posts/greenland/images/wideview.jpg": {
+    "height": 4624,
+    "recipe": "webp-q88-v1",
+    "sha256": "e0de743d66b39406d56f38c699ae46b4dd021ed5b973821666ddd81e0d001e5b",
+    "variants": [
+      {
+        "src": "assets/photo-previews/greenland/wideview-e0de743d66b3-640.webp",
+        "width": 640
+      },
+      {
+        "src": "assets/photo-previews/greenland/wideview-e0de743d66b3-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "assets/photo-previews/greenland/wideview-e0de743d66b3-1920.webp",
+        "width": 1920
+      }
+    ],
+    "width": 3472
+  },
+  "posts/greenland/images/wideview2.jpg": {
+    "height": 3472,
+    "recipe": "webp-q88-v1",
+    "sha256": "6f6f307f9ab45bb996389ca0d3b5f5a755ec405e2ef2e91fbad756454994c567",
+    "variants": [
+      {
+        "src": "assets/photo-previews/greenland/wideview2-6f6f307f9ab4-640.webp",
+        "width": 640
+      },
+      {
+        "src": "assets/photo-previews/greenland/wideview2-6f6f307f9ab4-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "assets/photo-previews/greenland/wideview2-6f6f307f9ab4-1920.webp",
+        "width": 1920
+      }
+    ],
+    "width": 4624
+  }
+}
