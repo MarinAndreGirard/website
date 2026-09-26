@@ -27,12 +27,13 @@ format:
     toc: false
     css: styles.css
     include-in-header:
-      text: |
-        <script>
-        document.addEventListener("DOMContentLoaded", function () {
-          const cvLinks = document.querySelectorAll('a[href$="cv.pdf"]');
-          cvLinks.forEach((link) => {
-            link.setAttribute("download", "Marin-Girard-CV.pdf");
+      - file: _includes/analytics.html
+      - text: |
+          <script>
+          document.addEventListener("DOMContentLoaded", function () {
+            const cvLinks = document.querySelectorAll('a[href$="cv.pdf"]');
+            cvLinks.forEach((link) => {
+              link.setAttribute("download", "Marin-Girard-CV.pdf");
+            });
           });
-        });
-        </script>
+          </script>
