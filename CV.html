@@ -74,6 +74,21 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <script>
+(() => {
+  const endpoint = 'https://maringirard.goatcounter.com/count';
+  const host = window.location.hostname;
+  if (!endpoint || ['localhost', '127.0.0.1', '::1', '[::1]'].includes(host) || host.endsWith('.localhost')) return;
+
+  // Group visits by page, without sending query strings or URL fragments.
+  window.goatcounter = { path: window.location.pathname };
+  const script = document.createElement('script');
+  script.async = true;
+  script.src = 'https://gc.zgo.at/count.js';
+  script.setAttribute('data-goatcounter', endpoint);
+  document.head.appendChild(script);
+})();
+</script>
+<script>
 document.addEventListener("DOMContentLoaded", function () {
   const cvLinks = document.querySelectorAll('a[href$="cv.pdf"]');
   cvLinks.forEach((link) => {
