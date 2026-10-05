@@ -59,7 +59,7 @@ We show how a Hamiltonian can be represented in a basis where dynamics look more
 
 We connect quantum Darwinism with operator algebra quantum error correction, making objectivity into a local recoverability question and giving computable tools for studying classicality and redundancy.
 
-[arXiv](https://arxiv.org/abs/2606.06588)
+[arXiv](https://arxiv.org/abs/2606.06588) · [Watch the talk](https://youtube.com/watch?v=zOVbiMApaWg)
 :::
 :::
 
